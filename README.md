@@ -496,5 +496,6 @@ For issues and questions:
 ---
 
 **🇸🇪 Made for Swedish retail intelligence - Locopon keeps you informed of the best deals!**
-#   l o c o p o  
+#   l o c o p o 
+ 
  
