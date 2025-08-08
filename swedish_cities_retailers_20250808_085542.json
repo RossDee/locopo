@@ -1,0 +1,100 @@
+{
+  "Stockholm": {
+    "city": "Stockholm",
+    "retailers_count": 0,
+    "retailers": [],
+    "discovered_date": "2025-08-08T08:52:35.782199",
+    "status": "no_results"
+  },
+  "Göteborg": {
+    "city": "Göteborg",
+    "retailers_count": 0,
+    "retailers": [],
+    "discovered_date": "2025-08-08T08:52:49.360093",
+    "status": "no_results"
+  },
+  "Malmö": {
+    "city": "Malmö",
+    "retailers_count": 0,
+    "retailers": [],
+    "discovered_date": "2025-08-08T08:53:02.898703",
+    "status": "no_results"
+  },
+  "Uppsala": {
+    "city": "Uppsala",
+    "retailers_count": 0,
+    "retailers": [],
+    "discovered_date": "2025-08-08T08:53:17.056969",
+    "status": "no_results"
+  },
+  "Västerås": {
+    "city": "Västerås",
+    "retailers_count": 0,
+    "retailers": [],
+    "discovered_date": "2025-08-08T08:53:30.729286",
+    "status": "no_results"
+  },
+  "Örebro": {
+    "city": "Örebro",
+    "retailers_count": 0,
+    "retailers": [],
+    "discovered_date": "2025-08-08T08:53:44.259155",
+    "status": "no_results"
+  },
+  "Linköping": {
+    "city": "Linköping",
+    "retailers_count": 0,
+    "retailers": [],
+    "discovered_date": "2025-08-08T08:53:58.468481",
+    "status": "no_results"
+  },
+  "Helsingborg": {
+    "city": "Helsingborg",
+    "retailers_count": 0,
+    "retailers": [],
+    "discovered_date": "2025-08-08T08:54:12.027744",
+    "status": "no_results"
+  },
+  "Jönköping": {
+    "city": "Jönköping",
+    "retailers_count": 0,
+    "retailers": [],
+    "discovered_date": "2025-08-08T08:54:26.149303",
+    "status": "no_results"
+  },
+  "Norrköping": {
+    "city": "Norrköping",
+    "retailers_count": 0,
+    "retailers": [],
+    "discovered_date": "2025-08-08T08:54:39.415452",
+    "status": "no_results"
+  },
+  "Lund": {
+    "city": "Lund",
+    "retailers_count": 0,
+    "retailers": [],
+    "discovered_date": "2025-08-08T08:54:53.156828",
+    "status": "no_results"
+  },
+  "Umeå": {
+    "city": "Umeå",
+    "retailers_count": 0,
+    "retailers": [],
+    "discovered_date": "2025-08-08T08:55:06.693951",
+    "status": "no_results"
+  },
+  "Gävle": {
+    "city": "Gävle",
+    "retailers_count": 0,
+    "retailers": [],
+    "discovered_date": "2025-08-08T08:55:23.228646",
+    "status": "no_results"
+  },
+  "Sundsvall": {
+    "city": "Sundsvall",
+    "retailers_count": 0,
+    "retailers": [],
+    "discovered_date": "2025-08-08T08:55:37.352995",
+    "status": "no_results"
+  }
+}

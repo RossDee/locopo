@@ -1,0 +1,22 @@
+Swedish Cities Retailer Discovery Summary
+==================================================
+
+Discovery Date: 2025-08-08 08:55:42
+Cities Processed: 14
+
+Stockholm       -   0 retailers
+Göteborg        -   0 retailers
+Malmö           -   0 retailers
+Uppsala         -   0 retailers
+Västerås        -   0 retailers
+Örebro          -   0 retailers
+Linköping       -   0 retailers
+Helsingborg     -   0 retailers
+Jönköping       -   0 retailers
+Norrköping      -   0 retailers
+Lund            -   0 retailers
+Umeå            -   0 retailers
+Gävle           -   0 retailers
+Sundsvall       -   0 retailers
+
+Total Unique Discoveries: 0

@@ -1,0 +1,42 @@
+{
+  "database_path": "data/locopon.db",
+  
+  "scraping": {
+    "request_delay": 1.0,
+    "max_retries": 3,
+    "timeout": 30,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  },
+  
+  "deepseek_api_key": "your_deepseek_api_key_here",
+  "deepseek_base_url": "https://api.deepseek.com",
+  "max_analysis_per_run": 20,
+  
+  "telegram_bot_token": "your_telegram_bot_token_here",
+  "telegram_chat_id": "your_telegram_chat_id_here",
+  
+  "schedule": {
+    "scrape_interval_hours": 2,
+    "quick_check_minutes": 30,
+    "daily_summary_time": "20:00",
+    "cleanup_time": "02:00",
+    "health_check_minutes": 60
+  },
+  
+  "target_publications": [
+    "https://ereklamblad.se/ICA-Maxi-Stormarknad?publication=5X0fxUgs",
+    "https://ereklamblad.se/Coop?publication=4zFUKNKp",
+    "https://ereklamblad.se/Willys?publication=JlTbj6jx",
+    "https://ereklamblad.se/Hemkop?publication=ZfTzJGsg",
+    "https://ereklamblad.se/Lidl?publication=8klV5k7P"
+  ],
+  
+  "cleanup_days": 30,
+  
+  "logging": {
+    "level": "INFO",
+    "file": "logs/locopon.log",
+    "max_size_mb": 10,
+    "backup_count": 5
+  }
+}

@@ -1,0 +1,1584 @@
+[
+  {
+    "name": "Scandlines Travel Shop",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "businessId": "doT3Hq",
+      "businessName": "Scandlines Travel Shop",
+      "score": 1
+    }
+  },
+  {
+    "name": "Bodypower",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "businessId": "HCaXUt",
+      "businessName": "Bodypower",
+      "score": 1
+    }
+  },
+  {
+    "name": "CITTI",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "businessId": "ob9iYE",
+      "businessName": "CITTI",
+      "score": 1
+    }
+  },
+  {
+    "name": "Nielsen Scan-Shop",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "businessId": "uDv379",
+      "businessName": "Nielsen Scan-Shop",
+      "score": 1
+    }
+  },
+  {
+    "name": "Scandinavian Park",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "businessId": "wxq5ph",
+      "businessName": "Scandinavian Park",
+      "score": 1
+    }
+  },
+  {
+    "name": "HOME-TEX.se",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "businessId": "HwX4t8",
+      "businessName": "HOME-TEX.se",
+      "score": 1
+    }
+  },
+  {
+    "name": "Electrolux Home",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "businessId": "5f99JC",
+      "businessName": "Electrolux Home",
+      "score": 1
+    }
+  },
+  {
+    "name": "Hornbach",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "businessId": "b9b3aD",
+      "businessName": "Hornbach",
+      "score": 1
+    }
+  },
+  {
+    "name": "Albrekts guld",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "businessId": "d651Pq",
+      "businessName": "Albrekts guld",
+      "score": 1
+    }
+  },
+  {
+    "name": "Leklust",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "businessId": "f0b3sC",
+      "businessName": "Leklust",
+      "score": 1
+    }
+  },
+  {
+    "name": "Mio",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "businessId": "00729D",
+      "businessName": "Mio",
+      "score": 1
+    }
+  },
+  {
+    "name": "Närlanda",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "businessId": "Uk81_p",
+      "businessName": "Närlanda",
+      "score": 1
+    }
+  },
+  {
+    "name": "kaffe",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "kaffe",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "glass",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "glass",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "toalettpapper",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "toalettpapper",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "ost",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "ost",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "ägg",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "ägg",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "smör",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "smör",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "kyckling",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "kyckling",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "läsk",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "läsk",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "bregott",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "bregott",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "lax",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "lax",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "nötfärs",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "nötfärs",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "kött",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "kött",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "vattenmelon",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "vattenmelon",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "köttfärs",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "köttfärs",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "kräftor",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "kräftor",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "chips",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "chips",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "kycklingfilé",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "kycklingfilé",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "blöjor",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "blöjor",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "tvättmedel",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "tvättmedel",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "pepsi max",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "title": "pepsi max",
+      "type": "search_query",
+      "source": "search"
+    }
+  },
+  {
+    "name": "ICA Supermarket",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "publicId": "1d1dvA",
+      "name": "ICA Supermarket",
+      "slugs": [
+        "ICA-Supermarket"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1d1dvA%2FIBW7eV_nMwBsq-TyNPRJ1&w=300&s=8ae7763300b72de35ce0a25848f37667",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1d1dvA%2FqZPDXOR9906KQ2MnZUAu6&w=300&s=5c7235669f4c3a489b32695b9c9f2a3c",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1d1dvA%2Fg6hYytrEviZED1l7tjoK-&w=300&s=d14106890464e65aeb1b6b31fbe94ee9",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1d1dvA%2FSXTl7ZWY_iOGm2MxWdRd9&w=300&s=029b145988c95bbc3e92b6c31bb14dbb",
+      "isStatic": false,
+      "isEnabled": true,
+      "primaryCategoryId": "groceries",
+      "primaryColor": "#e2011a",
+      "website": "https://www.ica.se/butiker/supermarket/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "TOALETTPAPPER 18-PACK",
+    "url": null,
+    "description": "Per förp. SPARA 14:00. SERLA • 18p • Jämförpris 33:84 kr/kg Lägsta 30-dgrspris 119:00 kr.",
+    "logo": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FHn02_ny6%2Fp-7.webp&w=300&x1r=0.6794&x2r=0.9967&y1r=0.6944&y2r=0.9498&s=43229f03c25aa54b829916c40a006c23",
+    "slug": null,
+    "raw_data": {
+      "publicId": "WZ_8IT_W0miLBcx1lNT-8",
+      "name": "TOALETTPAPPER 18-PACK",
+      "description": "Per förp. SPARA 14:00. SERLA • 18p • Jämförpris 33:84 kr/kg Lägsta 30-dgrspris 119:00 kr.",
+      "currencyCode": "SEK",
+      "unitPrice": 105,
+      "baseUnit": "piece",
+      "price": 105,
+      "savings": 14,
+      "fromPrice": null,
+      "membershipPrice": null,
+      "appPrice": null,
+      "relativeSavings": null,
+      "pieceCountGet": null,
+      "pieceCountGetFor": null,
+      "webshopLink": null,
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FHn02_ny6%2Fp-7.webp&w=300&x1r=0.6794&x2r=0.9967&y1r=0.6944&y2r=0.9498&s=43229f03c25aa54b829916c40a006c23",
+      "imageLarge": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FHn02_ny6%2Fp-7.webp&w=1000&x1r=0.6794&x2r=0.9967&y1r=0.6944&y2r=0.9498&s=1bc07416ded7116b462ad9206c1404c3",
+      "validFrom": "2025-08-03T22:00:00+0000",
+      "validUntil": "2025-08-10T21:59:59+0000",
+      "visibleFrom": "2025-08-04T01:50:18+0000",
+      "business": {
+        "publicId": "c371GA",
+        "name": "Willys",
+        "slugs": [
+          "Willys"
+        ],
+        "countryCode": "SE",
+        "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc371GA%2FaUOdIGYcKvIjn4VhX3UAJ&w=300&s=666c6833cd5cc99caa26d458d41554af",
+        "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc371GA%2FrHycCIGiAJUlakAcYv7cY&w=300&s=0bd3473997c05c978ec2fdf9fde1dd65",
+        "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc371GA%2F87CcylshGbq9_NXEjivMH&w=300&s=c80804900dd1144edaf3774016ef716b",
+        "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc371GA%2FSiL7pvP290mqce3nb0QUK&w=300&s=48ca01297078846cb2e595a44162ac8a",
+        "isStatic": false,
+        "isEnabled": true,
+        "primaryCategoryId": "hypermarket",
+        "primaryColor": "#e60219",
+        "website": "https://willys.se/?utm_source=tjek&utm_medium=referral"
+      },
+      "businessPublicId": "c371GA",
+      "publicationPublicId": "Hn02_ny6",
+      "publicationCoverImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FHn02_ny6%2Fp-1.webp&w=250&s=d2abf92db41b1685a2740bff90d62dea",
+      "unitSymbol": "pcs",
+      "pieceCountFrom": 1,
+      "pieceCountTo": 1,
+      "unitSizeFrom": 1,
+      "unitSizeTo": 1
+    }
+  },
+  {
+    "name": "Willys",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "publicId": "c371GA",
+      "name": "Willys",
+      "slugs": [
+        "Willys"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc371GA%2FaUOdIGYcKvIjn4VhX3UAJ&w=300&s=666c6833cd5cc99caa26d458d41554af",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc371GA%2FrHycCIGiAJUlakAcYv7cY&w=300&s=0bd3473997c05c978ec2fdf9fde1dd65",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc371GA%2F87CcylshGbq9_NXEjivMH&w=300&s=c80804900dd1144edaf3774016ef716b",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc371GA%2FSiL7pvP290mqce3nb0QUK&w=300&s=48ca01297078846cb2e595a44162ac8a",
+      "isStatic": false,
+      "isEnabled": true,
+      "primaryCategoryId": "hypermarket",
+      "primaryColor": "#e60219",
+      "website": "https://willys.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Hushållsost",
+    "url": null,
+    "description": "Ca 1,1-2,2 kg | Fetthalt 17-26% | Ord.pris 135:00-139:00 kr. | Arla",
+    "logo": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2Ff55979c146cdf6e055e5e5e66fac67da%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2Ff51ff8f57a6f15bfe2a46004d43f2c69%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2Fb0d2db6d56547069786b3dfcf33be09a%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2Fd2618d43b3407dd79b33b7b93d41fb03%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2F3305c029ec46df6a4242a5f1e8231c0c&w=300&s=17f00323a548153774d3ab74e0b50e44",
+    "slug": null,
+    "raw_data": {
+      "publicId": "ebc2m4ATgO_9MgnAkFv7k",
+      "name": "Hushållsost",
+      "description": "Ca 1,1-2,2 kg | Fetthalt 17-26% | Ord.pris 135:00-139:00 kr. | Arla",
+      "currencyCode": "SEK",
+      "unitPrice": 81.72727272727272,
+      "baseUnit": "kilogram",
+      "price": 89.9,
+      "savings": null,
+      "fromPrice": null,
+      "membershipPrice": null,
+      "appPrice": null,
+      "relativeSavings": null,
+      "pieceCountGet": null,
+      "pieceCountGetFor": null,
+      "webshopLink": null,
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2Ff55979c146cdf6e055e5e5e66fac67da%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2Ff51ff8f57a6f15bfe2a46004d43f2c69%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2Fb0d2db6d56547069786b3dfcf33be09a%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2Fd2618d43b3407dd79b33b7b93d41fb03%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2F3305c029ec46df6a4242a5f1e8231c0c&w=300&s=17f00323a548153774d3ab74e0b50e44",
+      "imageLarge": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2Ff55979c146cdf6e055e5e5e66fac67da%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2Ff51ff8f57a6f15bfe2a46004d43f2c69%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2Fb0d2db6d56547069786b3dfcf33be09a%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2Fd2618d43b3407dd79b33b7b93d41fb03%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fca802A%2F3305c029ec46df6a4242a5f1e8231c0c&w=1000&s=36493d4309456ebe100455aa1546a988",
+      "validFrom": "2025-08-03T22:00:00+0000",
+      "validUntil": "2025-08-10T21:59:59+0000",
+      "visibleFrom": "2025-08-04T02:15:46+0000",
+      "business": {
+        "publicId": "ca802A",
+        "name": "ICA Maxi Stormarknad",
+        "slugs": [
+          "ICA-Maxi-Stormarknad"
+        ],
+        "countryCode": "SE",
+        "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fca802A%2FAqiS0Q9GkvEot3bZjoZIu&w=300&s=5eebd76832889b20a625b373d02dc89b",
+        "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fca802A%2F8zSVnAFxpYdD7turqgU3x&w=300&s=e44bbd4e5be66197bd6e7304e7dabbbc",
+        "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fca802A%2FSsvxRpsMQW1tMTicAo38Y&w=300&s=53fd9b6298106a5022853dd4f5ec320b",
+        "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fca802A%2FVYP4fQUXkVdV_XigCZgwW&w=300&s=8cac30d48d5b67b09be6736a909dba58",
+        "isStatic": false,
+        "isEnabled": true,
+        "primaryCategoryId": "hypermarket",
+        "primaryColor": "#e2011a",
+        "website": "https://www.ica.se/butiker/maxi/?utm_source=tjek&utm_medium=referral"
+      },
+      "businessPublicId": "ca802A",
+      "publicationPublicId": "GvLXmL2y",
+      "publicationCoverImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_incito_publications%2Fca802A%2FGvLXmL2y%2Fcover-a_vewFio.webp&w=250&s=fbb2bb2fd9e5867a4372b51862c47ebe",
+      "unitSymbol": "kg",
+      "pieceCountFrom": 1,
+      "pieceCountTo": 1,
+      "unitSizeFrom": 1.1,
+      "unitSizeTo": 2.2
+    }
+  },
+  {
+    "name": "ICA Maxi Stormarknad",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "publicId": "ca802A",
+      "name": "ICA Maxi Stormarknad",
+      "slugs": [
+        "ICA-Maxi-Stormarknad"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fca802A%2FAqiS0Q9GkvEot3bZjoZIu&w=300&s=5eebd76832889b20a625b373d02dc89b",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fca802A%2F8zSVnAFxpYdD7turqgU3x&w=300&s=e44bbd4e5be66197bd6e7304e7dabbbc",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fca802A%2FSsvxRpsMQW1tMTicAo38Y&w=300&s=53fd9b6298106a5022853dd4f5ec320b",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fca802A%2FVYP4fQUXkVdV_XigCZgwW&w=300&s=8cac30d48d5b67b09be6736a909dba58",
+      "isStatic": false,
+      "isEnabled": true,
+      "primaryCategoryId": "hypermarket",
+      "primaryColor": "#e2011a",
+      "website": "https://www.ica.se/butiker/maxi/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "ICA Kvantum",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "publicId": "9cb4wA",
+      "name": "ICA Kvantum",
+      "slugs": [
+        "ICA-Kvantum"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9cb4wA%2Fev7jTBaiJkBLrA2kNSHjK&w=300&s=3be6998d6cbeadfc914f4485f2abbfbd",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9cb4wA%2FC6EE6wvF_hcnP9LxANL8F&w=300&s=78b91ce57dc97d39fe886da075d5c9f9",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9cb4wA%2FHEGJziCdkRGS5emAuUBn_&w=300&s=4d43d56f6d0096b292e86044b1a30083",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9cb4wA%2F7MZyXGVdiOAzF7y9sOxn4&w=300&s=993c0a8b92d978ed6ce2694a02b4f15d",
+      "isStatic": false,
+      "isEnabled": true,
+      "primaryCategoryId": "hypermarket",
+      "primaryColor": "#E3000B",
+      "website": "https://www.ica.se/butiker/kvantum/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "BLANDFÄRS",
+    "url": null,
+    "description": "Max 2 st | /st. MEDLEMSPRIS. MAX 2 ST/HUSHÅLL. EU/John’s Selection. Kyld. 50/50. Fetthalt max 20%. 800 g. Jfr-pris 87:38/kg.",
+    "logo": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfeQ_u9o1%2Fp-1.webp&w=300&x1r=0.0421&x2r=0.6459&y1r=0.1994&y2r=0.7309&s=60af702cc87407dbbcb1c88a319c08d1",
+    "slug": null,
+    "raw_data": {
+      "publicId": "kkuYlPyVWGhxxzVARv3IL",
+      "name": "BLANDFÄRS",
+      "description": "Max 2 st | /st. MEDLEMSPRIS. MAX 2 ST/HUSHÅLL. EU/John’s Selection. Kyld. 50/50. Fetthalt max 20%. 800 g. Jfr-pris 87:38/kg.",
+      "currencyCode": "SEK",
+      "unitPrice": 87.375,
+      "baseUnit": "kilogram",
+      "price": null,
+      "savings": null,
+      "fromPrice": null,
+      "membershipPrice": 69.9,
+      "appPrice": null,
+      "relativeSavings": null,
+      "pieceCountGet": null,
+      "pieceCountGetFor": null,
+      "webshopLink": null,
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfeQ_u9o1%2Fp-1.webp&w=300&x1r=0.0421&x2r=0.6459&y1r=0.1994&y2r=0.7309&s=60af702cc87407dbbcb1c88a319c08d1",
+      "imageLarge": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfeQ_u9o1%2Fp-1.webp&w=1000&x1r=0.0421&x2r=0.6459&y1r=0.1994&y2r=0.7309&s=4f9b082d756d3764c6b1e02bb3156c25",
+      "validFrom": "2025-08-03T22:00:00+0000",
+      "validUntil": "2025-08-10T21:59:59+0000",
+      "visibleFrom": "2025-07-31T02:25:45+0000",
+      "business": {
+        "publicId": "63eeoD",
+        "name": "Coop",
+        "slugs": [
+          "Coop"
+        ],
+        "countryCode": "SE",
+        "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwHYwD5Ne-aIRj3Wd4PzDx&w=300&s=8221ed69572535f55c0004ecce1c4065",
+        "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJ46CwU412P2ffbvYTUJir&w=300&s=1192d16f6ee8530b406b43747074bad1",
+        "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F63eeoD%2FYf-pbUBiKhs_WhTJsvKsV&w=300&s=4ba0985af3d62260b352e7a87df4aa19",
+        "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F63eeoD%2F2X3Xn2UhhEHk3CQbX5YtN&w=300&s=93c58562d99d740bad44fec26d61d004",
+        "isStatic": false,
+        "isEnabled": true,
+        "primaryCategoryId": "groceries",
+        "primaryColor": "#005537",
+        "website": "http://coop.se/?utm_source=tjek&utm_medium=referral"
+      },
+      "businessPublicId": "63eeoD",
+      "publicationPublicId": "feQ_u9o1",
+      "publicationCoverImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfeQ_u9o1%2Fp-1.webp&w=250&s=83d5ab15672aa46f5584ca7684fd167e",
+      "unitSymbol": "g",
+      "pieceCountFrom": 1,
+      "pieceCountTo": 1,
+      "unitSizeFrom": 800,
+      "unitSizeTo": 800
+    }
+  },
+  {
+    "name": "Coop",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "publicId": "63eeoD",
+      "name": "Coop",
+      "slugs": [
+        "Coop"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwHYwD5Ne-aIRj3Wd4PzDx&w=300&s=8221ed69572535f55c0004ecce1c4065",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJ46CwU412P2ffbvYTUJir&w=300&s=1192d16f6ee8530b406b43747074bad1",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F63eeoD%2FYf-pbUBiKhs_WhTJsvKsV&w=300&s=4ba0985af3d62260b352e7a87df4aa19",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F63eeoD%2F2X3Xn2UhhEHk3CQbX5YtN&w=300&s=93c58562d99d740bad44fec26d61d004",
+      "isStatic": false,
+      "isEnabled": true,
+      "primaryCategoryId": "groceries",
+      "primaryColor": "#005537",
+      "website": "http://coop.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Ägg 24-pack",
+    "url": null,
+    "description": "Garant, frigående inomhus, stl M, jfr-pris 2,29/st",
+    "logo": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fd9b6XA%2F1a52172a588980b0d44a6e7a5022a1e6&w=300&s=65c16447e005ce59f1ca2e13fd07e73d",
+    "slug": null,
+    "raw_data": {
+      "publicId": "4UaCpEosKbullaZN_GVff",
+      "name": "Ägg 24-pack",
+      "description": "Garant, frigående inomhus, stl M, jfr-pris 2,29/st",
+      "currencyCode": "SEK",
+      "unitPrice": 2.2916666666666665,
+      "baseUnit": "piece",
+      "price": null,
+      "savings": null,
+      "fromPrice": null,
+      "membershipPrice": 55,
+      "appPrice": null,
+      "relativeSavings": null,
+      "pieceCountGet": null,
+      "pieceCountGetFor": null,
+      "webshopLink": null,
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fd9b6XA%2F1a52172a588980b0d44a6e7a5022a1e6&w=300&s=65c16447e005ce59f1ca2e13fd07e73d",
+      "imageLarge": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fd9b6XA%2F1a52172a588980b0d44a6e7a5022a1e6&w=1000&s=f5e691530ab48e16512a905d2738d072",
+      "validFrom": "2025-08-03T22:00:00+0000",
+      "validUntil": "2025-08-10T21:59:59+0000",
+      "visibleFrom": "2025-08-03T15:00:00+0000",
+      "business": {
+        "publicId": "d9b6XA",
+        "name": "Hemköp",
+        "slugs": [
+          "Hemkop"
+        ],
+        "countryCode": "SE",
+        "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fd9b6XA%2F-D34DfM1D4ZLuntFb5l_P&w=300&s=a3ded271c4c6e4bffa67d723e42b41b7",
+        "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fd9b6XA%2FPenyDxJTaP7bdyhUaOwGi&w=300&s=d6bda1d21203bc3ba8192fa95b900bea",
+        "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fd9b6XA%2FInQxMaWoof09sVgBvF-ly&w=300&s=e750ea0acd4b35cd68f939a76dd3b1a3",
+        "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fd9b6XA%2FkiFyqS0tXSgEWyHLs1-DJ&w=300&s=6179c18cfd09ec047b2029e43ee7c3f5",
+        "isStatic": false,
+        "isEnabled": true,
+        "primaryCategoryId": "groceries",
+        "primaryColor": "#EE1C2E",
+        "website": "https://www.hemkop.se/?utm_source=tjek&utm_medium=referral"
+      },
+      "businessPublicId": "d9b6XA",
+      "publicationPublicId": "jVE4HVqG",
+      "publicationCoverImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_incito_publications%2Fd9b6XA%2FjVE4HVqG%2Fcover-8UP_6rrU.webp&w=250&s=a5208d9d338bcb22b1df62bf82cc889d",
+      "unitSymbol": "pcs",
+      "pieceCountFrom": 1,
+      "pieceCountTo": 1,
+      "unitSizeFrom": 24,
+      "unitSizeTo": 24
+    }
+  },
+  {
+    "name": "Hemköp",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "publicId": "d9b6XA",
+      "name": "Hemköp",
+      "slugs": [
+        "Hemkop"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fd9b6XA%2F-D34DfM1D4ZLuntFb5l_P&w=300&s=a3ded271c4c6e4bffa67d723e42b41b7",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fd9b6XA%2FPenyDxJTaP7bdyhUaOwGi&w=300&s=d6bda1d21203bc3ba8192fa95b900bea",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fd9b6XA%2FInQxMaWoof09sVgBvF-ly&w=300&s=e750ea0acd4b35cd68f939a76dd3b1a3",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fd9b6XA%2FkiFyqS0tXSgEWyHLs1-DJ&w=300&s=6179c18cfd09ec047b2029e43ee7c3f5",
+      "isStatic": false,
+      "isEnabled": true,
+      "primaryCategoryId": "groceries",
+      "primaryColor": "#EE1C2E",
+      "website": "https://www.hemkop.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Färsk laxsida",
+    "url": null,
+    "description": "Ca 1200 g | Odlad. Salmo salar | Ord.pris 252:00 kr. | ICA",
+    "logo": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F22d71690291ec2aea51e6d7314d82ec6&w=300&s=0d9713b3f0c4cb0ccd6505c61b1c7acc",
+    "slug": null,
+    "raw_data": {
+      "publicId": "19WTLqGtoyNLIFuPPlSAF",
+      "name": "Färsk laxsida",
+      "description": "Ca 1200 g | Odlad. Salmo salar | Ord.pris 252:00 kr. | ICA",
+      "currencyCode": "SEK",
+      "unitPrice": 124.16666666666666,
+      "baseUnit": "kilogram",
+      "price": null,
+      "savings": null,
+      "fromPrice": null,
+      "membershipPrice": 149,
+      "appPrice": null,
+      "relativeSavings": null,
+      "pieceCountGet": null,
+      "pieceCountGetFor": null,
+      "webshopLink": null,
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F22d71690291ec2aea51e6d7314d82ec6&w=300&s=0d9713b3f0c4cb0ccd6505c61b1c7acc",
+      "imageLarge": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F22d71690291ec2aea51e6d7314d82ec6&w=1000&s=1fc79e2af20191b45be5a9f9c3b16e24",
+      "validFrom": "2025-07-27T22:00:00+0000",
+      "validUntil": "2025-08-10T21:59:59+0000",
+      "visibleFrom": "2025-07-28T03:05:33+0000",
+      "business": {
+        "publicId": "20d4lA",
+        "name": "ICA Nära",
+        "slugs": [
+          "ICA-Nara"
+        ],
+        "countryCode": "SE",
+        "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F20d4lA%2FDv9zaDm6Az0u5C1hNwuqr&w=300&s=659769515b1d5de6695e80f5e68e447c",
+        "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F20d4lA%2Fda3S_Fw7ZkL0HHLJvOQ_P&w=300&s=4ddc84b486f7ee9f454cb345d59e431e",
+        "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F20d4lA%2F6m1sPZNvaOdZEOOnF72bj&w=300&s=26a21e8409bca22d26c2548b570ec169",
+        "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F20d4lA%2F84tJ4HgmaBhkRWOEhmQe_&w=300&s=eda4fe2b737d0e820dd74944c45253f7",
+        "isStatic": false,
+        "isEnabled": true,
+        "primaryCategoryId": "groceries",
+        "primaryColor": "#E3010C",
+        "website": "https://www.ica.se/butiker/nara/?utm_source=tjek&utm_medium=referral"
+      },
+      "businessPublicId": "20d4lA",
+      "publicationPublicId": "mYdAWDQj",
+      "publicationCoverImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_incito_publications%2F20d4lA%2FmYdAWDQj%2Fcover-uckCcel1.webp&w=250&s=239f0105a4d734db350b0fcda4028c53",
+      "unitSymbol": "g",
+      "pieceCountFrom": 1,
+      "pieceCountTo": 1,
+      "unitSizeFrom": 1200,
+      "unitSizeTo": 1200
+    }
+  },
+  {
+    "name": "ICA Nära",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "publicId": "20d4lA",
+      "name": "ICA Nära",
+      "slugs": [
+        "ICA-Nara"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F20d4lA%2FDv9zaDm6Az0u5C1hNwuqr&w=300&s=659769515b1d5de6695e80f5e68e447c",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F20d4lA%2Fda3S_Fw7ZkL0HHLJvOQ_P&w=300&s=4ddc84b486f7ee9f454cb345d59e431e",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F20d4lA%2F6m1sPZNvaOdZEOOnF72bj&w=300&s=26a21e8409bca22d26c2548b570ec169",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F20d4lA%2F84tJ4HgmaBhkRWOEhmQe_&w=300&s=eda4fe2b737d0e820dd74944c45253f7",
+      "isStatic": false,
+      "isEnabled": true,
+      "primaryCategoryId": "groceries",
+      "primaryColor": "#E3010C",
+      "website": "https://www.ica.se/butiker/nara/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Hel laxfilésida",
+    "url": null,
+    "description": "Klipp! /kg. SPARA 90:-/kg. Falkenberg, ca 1,4 kg Ord. pris 219:-/kg. 4-pack.",
+    "logo": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FyN3XuW-q%2Fp-1.webp&w=300&x1r=0.0112&x2r=0.5361&y1r=0.2999&y2r=0.6991&s=60704e46234e83cf4ca5de9ec7751b9d",
+    "slug": null,
+    "raw_data": {
+      "publicId": "s93wvO945QuMlVXX5n0n4",
+      "name": "Hel laxfilésida",
+      "description": "Klipp! /kg. SPARA 90:-/kg. Falkenberg, ca 1,4 kg Ord. pris 219:-/kg. 4-pack.",
+      "currencyCode": "SEK",
+      "unitPrice": 129,
+      "baseUnit": "kilogram",
+      "price": 129,
+      "savings": 90,
+      "fromPrice": null,
+      "membershipPrice": null,
+      "appPrice": null,
+      "relativeSavings": null,
+      "pieceCountGet": null,
+      "pieceCountGetFor": null,
+      "webshopLink": null,
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FyN3XuW-q%2Fp-1.webp&w=300&x1r=0.0112&x2r=0.5361&y1r=0.2999&y2r=0.6991&s=60704e46234e83cf4ca5de9ec7751b9d",
+      "imageLarge": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FyN3XuW-q%2Fp-1.webp&w=1000&x1r=0.0112&x2r=0.5361&y1r=0.2999&y2r=0.6991&s=9f8754db24ea9cdd5a81008a5a164008",
+      "validFrom": "2025-08-03T22:00:00+0000",
+      "validUntil": "2025-08-10T21:59:59+0000",
+      "visibleFrom": "2025-08-03T14:00:00+0000",
+      "business": {
+        "publicId": "bfe5hA",
+        "name": "City Gross",
+        "slugs": [
+          "City-Gross"
+        ],
+        "countryCode": "SE",
+        "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fo3VTacM7-zFp1ZejdQiZG&w=300&s=557307f443c93c3521d64cbbe0703f74",
+        "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIrqO3wVg1iAWHhEnm0Mdj&w=300&s=a07c03119b466850bc85c58a0ff1442d",
+        "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbfe5hA%2FpbvpPXZ-qFG09Y-yGTeNq&w=300&s=3fabc9f775c7f89d5bb25f4e0ca0a1dd",
+        "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbfe5hA%2FMsz64XbCZfJ3I4Nkp2toZ&w=300&s=e88197cd9b0fb2be8742665978092c04",
+        "isStatic": false,
+        "isEnabled": true,
+        "primaryCategoryId": "hypermarket",
+        "primaryColor": "#0373ba",
+        "website": "http://citygross.se/?utm_source=tjek&utm_medium=referral"
+      },
+      "businessPublicId": "bfe5hA",
+      "publicationPublicId": "yN3XuW-q",
+      "publicationCoverImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FyN3XuW-q%2Fp-1.webp&w=250&s=6d78a48eac05d2f7122d2457dc2f0c5e",
+      "unitSymbol": "kg",
+      "pieceCountFrom": 1,
+      "pieceCountTo": 1,
+      "unitSizeFrom": 1,
+      "unitSizeTo": 1
+    }
+  },
+  {
+    "name": "City Gross",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "publicId": "bfe5hA",
+      "name": "City Gross",
+      "slugs": [
+        "City-Gross"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fo3VTacM7-zFp1ZejdQiZG&w=300&s=557307f443c93c3521d64cbbe0703f74",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIrqO3wVg1iAWHhEnm0Mdj&w=300&s=a07c03119b466850bc85c58a0ff1442d",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbfe5hA%2FpbvpPXZ-qFG09Y-yGTeNq&w=300&s=3fabc9f775c7f89d5bb25f4e0ca0a1dd",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbfe5hA%2FMsz64XbCZfJ3I4Nkp2toZ&w=300&s=e88197cd9b0fb2be8742665978092c04",
+      "isStatic": false,
+      "isEnabled": true,
+      "primaryCategoryId": "hypermarket",
+      "primaryColor": "#0373ba",
+      "website": "http://citygross.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "ÄGG 15-PACK",
+    "url": null,
+    "description": "Max 3 st | För dig med WillysPlus. SPARA 7:00. GARANT • 15p • Från frigående höns inomhus Medium • Gäller ej ekologiska • Jämförpris 2:19 kr/st. Max 3 köp/hushåll.",
+    "logo": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FHn02_ny6%2Fp-2.webp&w=300&x1r=0.2571&x2r=0.58&y1r=0.2615&y2r=0.5027&s=0ec80c855dc521f7d786e1fa40b4e011",
+    "slug": null,
+    "raw_data": {
+      "publicId": "rzf0b0vmuOnw8vFOfIuYn",
+      "name": "ÄGG 15-PACK",
+      "description": "Max 3 st | För dig med WillysPlus. SPARA 7:00. GARANT • 15p • Från frigående höns inomhus Medium • Gäller ej ekologiska • Jämförpris 2:19 kr/st. Max 3 köp/hushåll.",
+      "currencyCode": "SEK",
+      "unitPrice": 2.1933333333333334,
+      "baseUnit": "piece",
+      "price": null,
+      "savings": null,
+      "fromPrice": null,
+      "membershipPrice": 32.9,
+      "appPrice": null,
+      "relativeSavings": null,
+      "pieceCountGet": null,
+      "pieceCountGetFor": null,
+      "webshopLink": null,
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FHn02_ny6%2Fp-2.webp&w=300&x1r=0.2571&x2r=0.58&y1r=0.2615&y2r=0.5027&s=0ec80c855dc521f7d786e1fa40b4e011",
+      "imageLarge": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FHn02_ny6%2Fp-2.webp&w=1000&x1r=0.2571&x2r=0.58&y1r=0.2615&y2r=0.5027&s=240dc3c5f28b37c32fa6d78a4f8bf74a",
+      "validFrom": "2025-08-03T22:00:00+0000",
+      "validUntil": "2025-08-10T21:59:59+0000",
+      "visibleFrom": "2025-08-04T01:50:18+0000",
+      "business": {
+        "publicId": "c371GA",
+        "name": "Willys",
+        "slugs": [
+          "Willys"
+        ],
+        "countryCode": "SE",
+        "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc371GA%2FaUOdIGYcKvIjn4VhX3UAJ&w=300&s=666c6833cd5cc99caa26d458d41554af",
+        "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc371GA%2FrHycCIGiAJUlakAcYv7cY&w=300&s=0bd3473997c05c978ec2fdf9fde1dd65",
+        "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc371GA%2F87CcylshGbq9_NXEjivMH&w=300&s=c80804900dd1144edaf3774016ef716b",
+        "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc371GA%2FSiL7pvP290mqce3nb0QUK&w=300&s=48ca01297078846cb2e595a44162ac8a",
+        "isStatic": false,
+        "isEnabled": true,
+        "primaryCategoryId": "hypermarket",
+        "primaryColor": "#e60219",
+        "website": "https://willys.se/?utm_source=tjek&utm_medium=referral"
+      },
+      "businessPublicId": "c371GA",
+      "publicationPublicId": "Hn02_ny6",
+      "publicationCoverImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FHn02_ny6%2Fp-1.webp&w=250&s=d2abf92db41b1685a2740bff90d62dea",
+      "unitSymbol": "pcs",
+      "pieceCountFrom": 1,
+      "pieceCountTo": 1,
+      "unitSizeFrom": 15,
+      "unitSizeTo": 15
+    }
+  },
+  {
+    "name": "ÖoB",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "ÖoB",
+      "publicId": "d61aP3",
+      "slugs": [
+        "OoB"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FzF6SyjHAem2Mb_LOcB-BN&w=300&s=1954c633b29f50425f7c005a7c2bf8bc",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FgtuLMMXzqEp5Zpt70wzHf&w=300&s=ff6a1ad1c7a14ab8d7551e483428e490",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fd61aP3%2F3w8NR1F3VgWgHv-kVtRhY&w=300&s=f239135f6633154131897eb937552d5a",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fd61aP3%2FbpHgnGN6mfNYtRoLWCXm-&w=300&s=b538c1bdaf21daddb494c54fd4c9f339",
+      "primaryCategoryId": "groceries",
+      "primaryColor": "#19171b",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "ÖoB är livsmedelsbutiken som erbjuder de lägsta priserna på varorna du inte trodde kunde bli billigare. Kvalitetsprodukter till oslagbara priser.",
+      "markdownDescription": "I en värld av generiska livsmedelsbutiker sticker ÖoB ut. Denna svenskägda kedja erbjuder kunderna kvalitetsprodukter till oslagbara priser. Ett koncept som grundades av Rune Svensson i 1948 med en drivande idé om att skapa ett varulager där kvalitetsprodukter kunde säljas billigt. \n\n**Överskottsbolaget där priset alltid är rätt**\n\nHos ÖoB kan kunden hitta allt de behöver till sitt hem och sin familj. Butiken erbjuder en mängd dagligvaror och andra hushållsartiklar till konkurrenskraftiga priser. Det som skiljer den från andra butiker är dess engagemang för att ge valuta för pengarna samtidigt som den upprätthåller höga standarder för produktkvalitet. Kunderna vet att när de handlar på ÖoB får de mer valuta för pengarna utan att kompromissa på kvalitet eller service. Det är därför folk kommer tillbaka igen och igen – för priset är alltid rätt!\n\n**Historien om ÖoB – en lyckad idé**\n\nDet hela började med Rune Svensson som öppnade sin första lanthandel i Östergötland 1948. Rune var en innovativ man och påbörjade verksamheten genom att köpa in filtar i stora volymer som han sedan kunder sälja billigt – till fyndpris. Hans låga priser lockade många och Rune kunde snabbt utöka sitt sortiment och varulager. Han började resa till både små och stora städer för att sälja sina produkter och det hela blev en stor succé.\n\nMycket har hänt sedan Rune åkte runt och besökte de svenska konsumenternas hem. Det som började med att köpa få produkter i massvolym i en lanthandel har idag vuxit till 100 varuhus över hela Sverige.\n\n# **ÖoBs katalog satte standarden för dagens reklamblad**  \n\nÖoB:s grundare Rune var före sin tid. Han utformade en katalog och gav kunderna möjligheten att beställa produkter hem till sig. En metod som liknar dagens reklamblad som vi hittar i både fysisk form och online. \n\nOavsett vilket år vi pratar om, så har överskottsbolaget ÖoB försett sina kunder med fantastiska erbjudanden. Med över 100 butiker i hela Sverige har ÖoB blivit en av de mest populära ställena att handla livsmedel och hemtillbehör. Oavsett om du letar efter inredning, elektronik eller trädgårdsmaterial så finns det något för alla på ÖoB.\n \nHos ÖoB hittar du bra erbjudanden på ett brett utbud av produkter inklusive kategorier som djur, skönhet, trädgårds- och byggmaterial. Med priset alltid i fokus är det lätt att hitta något som passar din budget. När du besöker ÖoB vet du att du kan handla alla produkter på en gång, utan att behöva besöka flera olika varuhus. ÖoB är därmed ett varuhus som förenklar din vardag och effektiviserar dina inköp. \n\n**ÖoB – Heminredning** \n\nÖoB har allt, från smått till stort när det kommer till heminredning. Det är sällan man kan hitta allt i ett och samma varuhus, men det kan du på ÖoB. Här hittar du allt du behöver när det gäller belysning, dekoration, ljus och lyktor, småförvaring, textiler, möbler och badrummet. \n\n**ÖoB – Hushåll**\n\nDet är mycket som behövs för att ett hem ska fungera och kännas på plats. I hushållskategorin hittar du alla köksmaskiner du kan tänka dig. Från en enkel sandwichgrill till en matberedare som kan ta sig ann dina utmaningar i köket. Utöver detta hittar du extra tillbehör till köket inom servering som exempelvis glas, bestick, tallrikar och skålar. Även smarta engångsartiklar som är perfekta för större fester eller en picknick utomhus. Sist men inte minst, har ÖoB ett brett sortiment av tvätt- och städartiklar där du kan spara en massa på bl.a. tvätt- och städmedel.\n\n**ÖoB – Skönhet**\n\nSkönhet är en kategori som ofta tillhör den högre prisklassen. Men hos ÖoB kan du spara en massa pengar på hår-, ansikts- och kroppsvård och munhygien. Det finns många produkter och varumärken att välja bland, så att du är säker på att hitta dina favoriter. Dessutom hittar du ett brett urval av produkter gällande hälsa, motion, barn och andra skönhetskategorier som doft, smink och rakning. \n\n**ÖoB – Livs**\n\nDet finns så mycket att spara på hos Överskottsbolaget! ÖoB har ett stort sortiment av livsmedel från populära och välkända varumärken som Arvid Nordquist, Coca-Cola, Fazer, Kellogg’s, Knorr, OLW, Risenta och mycket mer! Du hittar alla dina favoriter till de lägsta priserna. \n\n# **ÖoB och veckans annonsblad** \n\nVarje veckar delar ÖoB ett nytt reklamblad med aktuella och säsongsbaserade erbjudanden på allt inom livs, heminredning, hushåll, skönhet, djur, fritid, bygg och trädgård. Håll utkik efter veckans reklamblad och få de bästa rabatterna och besparingarna på tusentals produkter.\n\nÖoB är hela Sveriges varuhus. ÖoB strävar efter att göra din köpupplevelse så bra och enkel som möjligt. Så utöver de fysiska varuhusen kan du beställa hem produkter via deras nätbutik och även få hemleverans. \n\nMed hjälp av reklambladet får du nys om de senaste erbjudanden där du kan spara som mest! Vare sig det kommer till enkla livsmedelsprodukter, elektronik, möbler, eller skönhet så finns det alltid något att spara på. Med reklambladet får du även inspiration till din vardag med säsongsbetonade produkter eller lösningar. \n\n# **Öppettider för din närmsta ÖoB butik**\n\nMed 100 varuhus över hela Sverige så finns det med säkerhet en ÖoB i närheten av dig. Öppettiderna varierar lite från butik till butik men de flesta öppnar kl. 07:00 och stänger vid 19-20-tiden under vardagarna. Hitta öppettiderna till din lokala Öob nedan innan du besöker butiken.",
+      "website": "http://xn--ob-eka.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Tempo",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Tempo",
+      "publicId": "1d73DD",
+      "slugs": [
+        "Tempo"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1d73DD%2FA6dxlas4YN-mrOk-IKWcA&w=300&s=521ef3a3b36c68a385475a3775df43df",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1d73DD%2FWQeVAdvP85P8zu7Xe3Pzk&w=300&s=a4316c62b7290805548d934e7a6ca82b",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1d73DD%2FVFTneiW-3RXEOtOWSqcsV&w=300&s=be376aace6fca952121e2dd5b49127a7",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1d73DD%2Fo3mzm9e_Co-I86VRACSQn&w=300&s=a7455c14467f12599934d7dc07e29c95",
+      "primaryCategoryId": "groceries",
+      "primaryColor": "#015745",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Idag finns ca 140 Tempobutiker över hela landet. Här hittar du det som du behöver för dagen - morgon, middag, kväll! På Tempo är färskvaror i fokus och här finner du även dina lokala producenter.",
+      "markdownDescription": "### tempo.se – En svensk matbutik nära dig\n\nTempo är en svensk dagligvarukedja med butiker spridda över hela landet. Med fokus på närhet, personlig service och ett brett sortiment, är Tempo ett naturligt val för dig som vill handla enkelt och lokalt. tempo.se är butikskedjans digitala plattform där du kan ta del av veckans erbjudanden, få information om din närmaste butik och hitta inspiration till vardagsmaten.\n\nHos Tempo står bekvämlighet och kvalitet i centrum – butikerna är ofta placerade i lokalsamfund där de fyller en vigtig funktion som närbutik. Det är just den lokala förankringen som gör Tempo till ett uppskattat inslag i många svenska orter.\n\n### Brett sortiment för hela hushållet\n\nTempo erbjuder ett sortiment som täcker alla behov – från färska grönsaker, kött och mejerivaror till bröd, snacks och hushållsartiklar. I butikerna hittar du både välkända svenska varumärken och prisvärda alternativ från EMV-sortimentet. Målet är att kunna erbjuda både vardagsvaror och det lilla extra, oavsett om du handlar inför en helgmiddag eller behöver komplettera basvaror i farten.\n\nMånga Tempo-butiker har även postombud, spel och andra lokala tjänster som gör att du kan göra flera ärenden på ett och samma ställe.\n\n### tempo.se – erbjudanden och matinspiration\n\nPå [tempo.se](https://tempo.se) kan du enkelt bläddra i den aktuella reklambladet och hålla koll på kampanjvaror. Erbjudandena uppdateras varje vecka och gäller i din lokala butik. Här hittar du ofta nedsatta priser på kött, grönsaker, bröd, dryck och mycket mer.\n\nWebbplatsen bjuder även på matinspiration, recept och tips på hur du kan få ut mer av dina råvaror – perfekt när du behöver idéer till snabba vardagsrätter eller vill testa något nytt.\n\n### Lokal närvaro och personligt bemötande\n\nDet som gör Tempo unikt är butikernas starka lokala förankring. Många Tempo-butiker drivs av engagerade handlare som känner sina kunder och sätter en ära i att erbjuda god service och ett sortiment anpassat efter det lokala behovet.\n\nDet gör Tempo till mer än bara en matbutik – det är en viktig del av lokalsamhället, där man känner sig välkommen och sedd.\n\n---\n\nBesök [tempo.se](https://tempo.se) för att se veckans erbjudanden och hitta din närmaste butik.",
+      "website": "https://www.tempo.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Matöppet",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Matöppet",
+      "publicId": "94d4yD",
+      "slugs": [
+        "Matoppet"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F94d4yD%2F-vp_CRkyKDgpjQd-DNxxb&w=300&s=1871d87b000c8a72b714ce3981578540",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F94d4yD%2FmMrKpODAuqHc6m8cPS7B1&w=300&s=972ffbe608c1e81b3f3f944e388f0ff1",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F94d4yD%2FUzY2AL5zr_8UEKXSRbOmJ&w=300&s=a0def2280e3b2d81bc7259497c70dadc",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F94d4yD%2F8Q7od2Nols-vizCdFhZkO&w=300&s=b178343afdccad0e4075c06ef9e583d1",
+      "primaryCategoryId": "groceries",
+      "primaryColor": "#e30918",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Matöppet är din go-to matbutik när du letar efter oslagbara erbjudanden. Börja bläddra igenom deras aktuella reklamblad redan nu!",
+      "markdownDescription": "Välkommen till Matöppet! Upptäck färska råvaror, delikatesser och vardagliga favoriter under ett tak. Med deras lockande erbjudanden och mångsidiga sortiment blir matinköp en spännande resa. Deras passionerade personal står redo att vägleda och inspirera. Välkommen till en plats där smak, gemenskap och kundnöjdhet är i centrum. Kom och njut av en matupplevelse utöver det vanliga!\n\nMatöppets resa startade med en passion för mat och en önskan om att skapa en plats där människor kunde hitta allt de behövde för sina matupplevelser. Denna grundläggande vision har varit en stark drivkraft genom deras historia och har format varje aspekt av deras verksamhet.\n\n# **Matöppet Erbjudande och Reklamblad**\n\nMatöppets dedikation till att erbjuda kvalitetsprodukter till överkomliga priser gör det möjligt för kunder att njuta av enastående smaker utan att behöva kompromissa. På Matöppet finns det något för alla, oavsett smak och budget.\n\nDeras noggrant utformade erbjudanden och kampanjer är uttryck för deras åtagande att hjälpa människor på flera sätt. Genom att erbjuda förmånliga priser på kvalitetsprodukter gör vi det enklare för människor att skapa mångsidiga och goda måltider utan att spränga budgeten. Detta ger ekonomisk lättnad och möjligheter till matupplevelser som inte hade varit lika tillgängliga annars.\n\nDe kampanjer som Matöppet erbjuder sträcker sig bortom bara produkterna i sig. Genom att främja hälsosamma alternativ och inkludera ekologiska och närproducerade varor, uppmuntrar de människor till att göra medvetna och hållbara val. Dessutom skapar det en dynamisk och spännande atmosfär i butiken, där kunderna kan upptäcka nya smaker och inspireras till att prova något nytt.\n\nMatöppet reklamblad fungerar som en bro mellan dem och deras kunder, och skapar översikt över de bästa erbjudandena och produkterna som är tillgängliga i butiken. De ger även inspiration till att utforska nya smaker och testa nya produkter. Genom att samla informationen på ett ställe blir det enklare för våra kunder att planera sina inköp och få ut mesta möjliga av sitt besök hos oss. Kika på de aktuella reklambladen från Matöppet längst ner på denna sida!\n\n**Service som Skapar Gemenskap**\n\nNär du kliver in i en av Matöppet butiker känner du genast värmen från deras omtänksamma personal. Deras engagerade service sträcker sig bortom att bara hjälpa dig hitta rätt produkter – det handlar om att kunderna känner sig välkomna och omhändertagna. Med deras hjälpsamma råd blir shoppingen på Matöppet en positiv och minnesvärd upplevelse.\n\n# **Matöppet Öppettider**\n\nMatöppet förstår att livet har olika takt. Därför erbjuder Matöppet butiker flexibla öppettider som anpassar sig till dina behov, oavsett när du vill handla. Specifika Matöppettider hittar du längst ner på denna sida.",
+      "website": "http://www.matoppet.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Lidl",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Lidl",
+      "publicId": "03a7b3",
+      "slugs": [
+        "Lidl"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F03a7b3%2FWlVIO_4pGz9CFUyHk8xjL&w=300&s=b85c0120b78347a7149e80ea291f8a36",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F03a7b3%2F2SaAXkKU-xs4iRSIbQs3T&w=300&s=2895f2555be294e14b9af1f42c1e9b3d",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F03a7b3%2Fc70_lWJfJrWGQhxUyg44_&w=300&s=c202a6c081fd0efc85411123132d0f80",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F03a7b3%2Fkj5wFSArGxhC-9Jsg6xQ8&w=300&s=8020ef41c0b76503901fe225a44c2c44",
+      "primaryCategoryId": "groceries",
+      "primaryColor": "#0057e6",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Färskvaror och förpackad mat till skönhetsprodukter och hushållsartiklar – Lidl har något för alla. Spara pengar med veckans erbjudanden i reklambladet här.",
+      "markdownDescription": "Lidl är en hard-discount kedja, vilket betyder att de fokuserar på lågprisprodukter och har ett något smalare sortiment och en hög andel egna märkesvaror. Här hittar du ofta “klippvaror” som är produkter som ingår i ett tillfälligt sortiment under en begränsad period. Dessa varor är på erbjudande och har ofta goda rabatter. Med sina låga priser och bekväma lägen är det inte konstigt varför så många människor väljer att handla på Lidl.\n\nDenna tyskbaserade lågprisbutik har snabbt blivit en av de snabbast växande återförsäljarna i Europa och är nu tillgänglig i flera länder över hela världen.\n\n**Lidl har ett prisvärt sortiment med lokala och internationella produkter**\n\nLidl är känt för sitt breda urval av internationella produkter inklusive specialvaror från Tyskland, Italien och Frankrike samt olika ekologiska alternativ. Hålla dig uppdaterat med Lidls reklamblad med erbjudanden som ger ännu större besparingar på toppmärken.\n\n**Lidls historia – en global lågpriskedja**\n\nLidl är en av de mest populära lågprisbutikerna i Europa, med över 10 000 stormarknader som spänner över mer än 30 länder. \n\nLidl har rötter tillbaka till 1930-talet men öppnade sin första Lidl-butiken i Tyskland 1973 och har blivit ett känt namn för shoppare som vill spara pengar på matvaror, toalettartiklar och andra hushållsartiklar. När butiken fortsätter att expandera till nya marknader och etablera en ännu större närvaro runt om i världen, är det viktigt att förstå vad Lidl står för och varför kunderna älskar den så mycket. \n\n# **Upptäck goda rabatter och erbjudanden i Lidls reklamblad**\n\nLidl är butiken där du alltid kan handla med sunt förnuft för hela veckan. Bakom detta löfte ligger Lidls affärsidé om kvalitet till bästa pris – Allt annat är olidligt. Lidl är en populär lågpriskedja som erbjuder bra valuta för pengarna på kvalitetsprodukter. \n\nKunder kan dra nytta av fantastiska Lidl-erbjudanden med rabatterade varor tillgängliga varje vecka i reklambladet och specialerbjudanden under hela året. I och med introduktionen av Lidl har konsumenterna fått ett nytt och spännande sätt att handla sina dagligvaror. \n\nLidl brinner för att erbjuda dig ett sortiment där svenska och ekologiska produkter samsas med utländska delikatesser och ett varierat utbud av varor för hela hemmet. Till priser som gör livet lite gladare och godare. Lidl erbjuder oslagbart värde och service till svenska kunder. Med ett brett utbud av produkter från mat, dryck och hushållsartiklar är Lidl det perfekta sättet att snabbt och enkelt hitta det du behöver. Att handla hos Lid kan spara tid och pengar – allt samtidigt som du säkerställer att du får de bästa kvalitetsprodukterna som finns på marknaden.\n\n# **Kolla in Veckans Erbjudande hos Lidl**\n\nLidls reklamblad – din källa för alla de bästa erbjudandena, rabatterna och specialerbjudandena i ditt lokalområde. Oavsett om du letar efter matvaror, hushållsartiklar eller något speciellt för dig själv, hittar du ett brett urval av produkter till fantastiska priser. Med veckokampanjer och spännande nya produkter som introduceras regelbundet finns det alltid något att upptäcka hos Lidl! Reklambladet är fullspäckat med information om veckans erbjudanden och kommande rabatter.\n\n**Bröd, frallor och bakverk i Lidls egna lilla bageri**\n \nAlla Lidl-butiker har eget litet bageri. Deras bageri är perfekt för alla dem som letar efter färska, välsmakande godsaker. Från kakor och bakverk till bröd, frallor, bullar med mera, Lidl har något som tillfredsställer varje sötsug. Oavsett om du letar efter en smarrig efterrätt eller ett snabbt mellanmål på språng, kan deras urval av bakverk inte slås. Med ett ständigt växande utbud av kakor, bakverk, bröd med mera har Lidls bageriavdelning något för alla. \n\n**Ett prisvärt sortiment med svenska och ekologiska varor**\n\nVi erbjuder ett noga utvalt sortiment där svenska och ekologiska produkter, samt utländska delikatesser, är givna inslag. På Lidl undviker de många olika sorters varor av samma sak, eftersom allt för många leverantörer gör maten dyrare. Majoriteten av Lidls produkter kommer därför från deras egna varumärken, kompletterat med de mest efterfrågade externa matvarorna. Med färre leverantörer och större volymer får de bättre förhandlingsläge och kan spara in på kostnader, vilket i sin tur innebär lägre priser för kunderna i deras butiker. \n\n# **Se aktuella och kommande erbjudanden i Lidls reklamblad**\n\nNär du handlar hos Lidl kan du spara hela veckan! Ta en närmre titt på Lidls reklamblad nedan för att se de varor som finns till extrapriser under veckodagarna och vilka erbjudanden de har under helgen! Oavsett om du letar efter matvaror varje vecka, hushållsartiklar eller något speciellt för ett högtidsfirande, har Lidl något för alla. Med fantastiska priser och nya rabatter och erbjudanden som dyker upp varje vecka har det aldrig funnits en bättre tid att utforska Lidls värld.\n\n**Butiker och öppettider**\n\nHos Lidl kan du handla i bekväma öppettider. Deras normala öppettider är 08-21:00, men det finns även utvalda butiker som har öppet till 22:00. Dessa generösa öppettider gör det möjligt för dig att handla när det är enklast för dig. Det är dock alltid en bra idé att kolla öppettiderna nedan innan du åker till din lokala Lidl-butik.\n\nMed över drygt 200 butiker runt om i hela Sverige har det snabbt blivit ett av de mest kända namnen i landet. Deras effektiva design gör att Lidl-butiker kan hålla kostnaderna nere samtidigt som de ger kunderna produkter av högre kvalitet till överkomliga priser. Med färre anställda till hands än traditionella livsmedelsbutiker hjälper deras strömlinjeformade tillvägagångssätt att minska arbetskostnaderna samtidigt som de erbjuder utmärkt kundservice.",
+      "website": "http://lidl.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Willys Hemma",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Willys Hemma",
+      "publicId": "cJPBvX",
+      "slugs": [
+        "Willys-Hemma"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FcJPBvX%2FlgTplSsLVxg4YJ5oOVCyt&w=300&s=54df6907ffeb994dfdf18c5adc9a552c",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FcJPBvX%2F3PvOPhSr6sWc7tACXtDBj&w=300&s=4f560173609f38257e81e780d592b549",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FcJPBvX%2FbeChP5w6I8ySv2NUdjNNz&w=300&s=688b4cda47c4d5742fa12949adce3689",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FcJPBvX%2FKybiBApzNu-LJUnq0M5jO&w=300&s=3428479732dab252898a10407ae7296c",
+      "primaryCategoryId": "groceries",
+      "primaryColor": "#e30613",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Willys har över 200 butiker. Av dessa är drygt 50 hänförliga till Willys koncept för mindre butiker, Willys Hemma. På Willys Hemma hittar kunderna bra mat till låga priser i bostadsnära lägen, stadskärnor eller på mindre orter. ",
+      "markdownDescription": "Willys är en av Sveriges ledande livsmedelskedjor, känd för sitt fokus på låga priser och ett brett sortiment. Med butiker över hela landet strävar Willys efter att göra vardagshandlingen så prisvärd och enkel som möjligt för sina kunder. Oavsett om du letar efter färska råvaror, mejeriprodukter, frysvaror eller hushållsartiklar, erbjuder Willys ett omfattande utbud för alla behov. Willys har också ett växande sortiment av ekologiska och miljövänliga alternativ, vilket gör det enkelt att göra medvetna val. \n\n**Willys – Din lokala matbutik med fokus på låga priser**\n\nWillys har länge varit en favorit bland svenska konsumenter som vill spara pengar utan att kompromissa med kvaliteten. Genom att optimera sina inköp och logistik kan Willys erbjuda konkurrenskraftiga priser på ett brett utbud av varor. Detta gör Willys till ett attraktivt alternativ för både stora och små hushåll.\n\n**Ett brett sortiment för alla smaker och behov**\n\nPå Willys hittar du allt du behöver för din dagliga matlagning och hushåll. Sortimentet inkluderar färska frukter och grönsaker, kött och fisk, mejeriprodukter, bröd, konserver, drycker och mycket mer. Willys erbjuder också ett stort utbud av varor från egna märken, vilket ofta är ett prisvärt alternativ till de mer kända varumärkena.\n\n**Hållbarhet i fokus**\n\nWillys arbetar aktivt för att minska sin miljöpåverkan och främja en mer hållbar konsumtion. De erbjuder ett brett sortiment av ekologiska och miljömärkta produkter, och arbetar kontinuerligt med att förbättra sina förpackningar och minska matsvinnet. Genom att välja Willys kan du som kund bidra till en mer hållbar framtid.\n\n## **Missa inte de senaste erbjudandena i Willys reklamblad**\n\nVill du spara ännu mer pengar på dina matinköp? Håll utkik i Willys reklamblad! Där hittar du alltid aktuella erbjudanden och kampanjer på utvalda produkter. Reklambladet uppdateras regelbundet, så se till att inte missa några bra deals.\n\n**Inspiration och recept för din matlagning**\n\nWillys vill inspirera sina kunder till att laga god och hälsosam mat. På deras webbplats och i deras reklamblad hittar du ofta recept och tips för olika maträtter. Oavsett om du är ute efter en snabb vardagsmiddag eller en festlig helgmåltid, kan du hitta inspiration hos Willys.\n\n**Enkel och smidig shoppingupplevelse**\n\nWillys strävar efter att göra din shoppingupplevelse så enkel och smidig som möjligt. Deras butiker är välplanerade och lätta att navigera, och personalen är alltid redo att hjälpa till. Dessutom erbjuder Willys ofta självscanning och andra tekniska lösningar för att göra betalningen snabbare och enklare.\n\n**Willys – Mer än bara en matbutik**\n\nWillys är mer än bara en plats där du handlar mat. Det är en mötesplats för människor som vill spara pengar, äta gott och leva hållbart. Med sitt breda sortiment, låga priser och engagemang för miljön är Willys en viktig del av det svenska samhället.\n\n**Planera dina inköp med Willys reklamblad**\n\nFör att maximera dina besparingar, ta en titt i Willys reklamblad innan du besöker butiken. Där hittar du de senaste erbjudandena och kan planera dina inköp i förväg. Reklambladet är tillgängligt online och i tryckt format i butiken.\n",
+      "website": "https://willys.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Daglivs",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Daglivs",
+      "publicId": "a987sA",
+      "slugs": [
+        "Daglivs"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fa987sA%2F6b-VQ8AOw-eQCXuF8EIdA&w=300&s=cf7a68490a0e1cf6347f7ef05b98e883",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fa987sA%2Fm04vVRnFrfI_dlrBpLOZh&w=300&s=e45444a2c8670368f0070789464698fa",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fa987sA%2FcaHnX8_ByC98RDZbnExd2&w=300&s=5365e25147bf8b6b1c98c90816f31cbf",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fa987sA%2Fk98-GPHu_Ii4UIwYSNH1N&w=300&s=1272d8a5cda9b0572b8522b8709046e5",
+      "primaryCategoryId": "groceries",
+      "primaryColor": "#000000",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Genom att erbjuda olika kampanjer, rabatter och lojalitetsprogram strävar Coop Daglivs efter att belöna sina kunder med extra bra priser. För kunder som söker en pålitlig livsmedelskedja med ett hållbarhetsfokus är Daglivs definitivt värt att utforska.",
+      "markdownDescription": "Coop Daglivs, också känd som Daglivs, är en välkänd livsmedelskedja som har etablerat sig som ett betrodd alternativ för kunder runt om i Sverige. Med sina många butiker och ett brett sortiment av varor har Daglivs blivit en populär destination för\nkunder som söker kvalitet till förmånliga priser.\n\n# **Reklamblad med oemotståndliga priser**\nCoop Daglivs erbjudanden fortsätter att anpassa sig till förändrade kundbehov. Genom att erbjuda olika kampanjer, rabatter och lojalitetsprogram strävar de efter att belöna sina kunder med extra bra priser. Daglivs anstränger sig för att möta alla kunders olika\nbehov och preferenser genom att ha kampanjer som berör ett brett utbud av produkter av hög kvalitet till överkomliga priser. Daglivs erbjudanden och kampanjer når kunderna genom bland annat reklamblad. Dessa reklamblad utges regelbundet och innehåller information om aktuella erbjudanden, specialpriser och rabatter. Genom att bläddra igenom reklambladen kan kunderna planera sina inköp och dra nytta av de bästa priserna som Daglivs har att\nerbjuda. Eftersom reklambladen utges regelbundet, gör det att kunderna kan kontinuerligt följa med på de aktuella kampanjer och spara pengar året runt. Kunder kan även få produktinformation och inspiration från Daglivs reklamblad. Produktbeskrivningar, näringsinformation och tips som finns i reklambladen hjälper kunderna att göra välgrundade val och ger dem inspiration för att prova nya produkter eller recept. Daglivs reklamblad är ett värdefullt verktyg för att hålla kunderna engagerade och informerade om de senaste erbjudandena och kampanjerna. Genom sin tydlighet, varierade utbud och attraktiva priser bidrar Daglivs reklamblad till att skapa en givande och lönsam shoppingupplevelse för kunderna. Kunder kan därmed spara pengar och samtidigt njuta av högkvalitativa produkter från Daglivs sortiment. Du hittar alla aktuella\nreklamblad från Coop Daglivs längst ner på denna sida. Sätt igång redan nu med att hitta alla möjliga spännande erbjudanden!\n\n## **Rötter i Sveriges kooperativa rörelse**\n\nCoop Daglivs är en del av Coop-koncernen, som är en av de största livsmedelskedjorna i Sverige. Coop grundades som ett kooperativt företag med syftet att erbjuda medlemmarna kvalitetsprodukter till rimliga priser. Coop Daglivs är en av de butikskedjor inom Coop-koncernen som erbjuder livsmedelsvaror och andra nödvändigheter till kunder över hela landet. Företaget har genom åren vuxit och\nexpanderat genom att öppna fler butiker runt om i landet. Detta har skapat möjligheter för kunderna att enkelt komma åt livsmedel med hög kvalitet i närheten av sina hem eller arbetsplatser. Daglivs strävar efter att erbjuda sina kunder en trevlig och bekväm shoppingupplevelse. Affärerna är utformade för att vara överskådliga och välorganiserade, vilket gör det enkelt för kunderna att hitta det de behöver. Butikspersonalen i Daglivs olika affärer finns tillgänglig för att svara på frågor eller ge rekommendationer. Med sin historia av\nkooperativt tänkande, fokus på kvalitet och hållbarhet, och strävan efter att möta kundernas behov fortsätter Coop Daglivs att vara en föredragen destination för svenskarna när de handlar för sina dagliga behov.\n\n## **Coop Daglivs - En grönare framtid**\nEn viktig del av Coop Daglivs verksamhet är deras engagemang för hållbarhet och ansvarsfullt företagande. Coop Daglivs arbetar för att minska sin påverkan på miljön genom att främja hållbara inköpsmetoder, minska matsvinn och erbjuda ekologiska och\nFairtrade-alternativ. De stöder också lokala producenter och initiativ som främjar hållbarhet i samhället. Daglivs har tagit viktiga steg för att integrera hållbarhet i sin verksamhet och främja miljömedvetenhet. De strävar efter att erbjuda ett sortiment av ekologiska och hållbara produkter till sina kunder, dels genom att samarbeta med certifierade producenter och leverantörer för att säkerställa att deras produkter uppfyller höga hållbarhetsstandarder.\nDaglivs arbetar också aktivt med att minska sitt eget ekologiska fotavtryck genom att förbättra energieffektiviteten i sina butiker och minska sitt matsvinn. De engagerar sig även i samhällsprojekt och stödjer initiativ som främjar hållbarhet och socialt ansvar. För\nkunder som söker en pålitlig livsmedelskedja med ett hållbarhetsfokus är Daglivs definitivt värt att utforska.\n\n# **Öppettider du kan räkna med**\n\nCoop Daglivs förstår vikten av att erbjuda flexibla öppettider för att möta kundernas behov. Butikerna har generösa öppettider, vilket gör det möjligt för kunderna att handla när det passar dem bäst. Daglivs strävar efter att vara tillgängliga för kunderna från tidig morgon till sen kväll, inklusive helgdagar. Denna flexibilitet gör det möjligt för kunderna att planera sina inköp och besöka butikerna vid en tidpunkt som är bekväm för dem. Öppettider kan variera från affär till affär, och från dag till dag, så det är bäst att kolla upp de specifika öppettider som gäller för den Daglivs-butiken som du vill besöka.",
+      "website": "https://www.coop.se/035000?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Lekia",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Lekia",
+      "publicId": "11b55C",
+      "slugs": [
+        "Lekia"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F_cIQeBQENjeJTHnW3J-aG&w=300&s=812e6c4f78a8fa42348d0d2874dcf328",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F2eFC4f6BKRDjZX4b2ju7R&w=300&s=b4ee0bb795eb71c4d4d35f0dd2afba86",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F11b55C%2Fb49RN6n32kY_ewU7L0vTg&w=300&s=579f8550ef3b2b74a697cd15d8d2e8cc",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F11b55C%2FtblUBaSJKA80ilVG-RgnM&w=300&s=ea10fa87a4fa3f393c2308f30705261b",
+      "primaryCategoryId": "others",
+      "primaryColor": "#e30613",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Genom åren har Lekia blivit en favoritaffär för både barn och vuxna med sina lekfulla butiker, låga priser och breda sortiment av leksaker och spel.",
+      "markdownDescription": "Lekia är en av Sveriges mest älskade och välkända leksaksaffärer, och deras butiker har hjälpt att stärka den största glädjen i ett barns liv - lekens magi. Med många butiker spridda över hela landet, har Lekia fångat barn och föräldrars hjärtan med sina lekfulla butiker, låga priser och breda sortiment av leksaker och spel.\n\nGenom åren har Lekia skapat en kärleksfull och inspirerande plats där fantasier blir verklighet och där lekens magi fortsätter att fylla barns liv. Med sin fortsatta satsning på kundfokus och hållbarhet, fortsätter Lekia att vara en av de mest älskade leksaksaffärerna i Sverige, och deras resa genom tiden går vidare med samma passion och entusiasm som när de först öppnade sina dörrar!\n\n**Lekia Historia - En resa mot glädje, lek och fantasi**\n\nLekia grundades av bröderna John och Rolf Larsson i Linköping 1988. Deras dröm var att skapa en butik som skulle erbjuda det mest spännande och varierade utbudet av leksaker till barn i alla åldrar. Med en stark passion för lek och barns utveckling, öppnade de sin första butik med målet att sprida glädje och underhållning bland landets familjer.\n\nBröderna Larsson hade själva en stark kärlek till lek och fantasirika äventyr, och de ville att varje barn skulle få uppleva samma glädje genom de leksaker som de erbjöd. Deras engagemang för kvalitet och en bred variation av leksaker gjorde att Lekia snabbt blev en favoritdestination för barn och föräldrar runt om i Sverige.\n\n**Lekias katalog, reklamblad och erbjudanden**\n\nLekia strävar efter att erbjuda leksaker och spel av högsta kvalitet till låga priser. Deras sortiment omfattar allt från de senaste leksakstrenderna till tidlösa klassiker. Med ett brett urval av produkter kan föräldrar och barn hitta något som passar just deras intressen och behov. De har ett spännande och varierat sortiment för att tillgodose alla barns unika önskemål. Samtidigt söker de ständigt efter de mest populära och efterfrågade leksakerna på marknaden och samarbetar med kända varumärken för att erbjuda sina kunder de bästa produkterna.\n\nLekia är kända för sina regelbundna reklamblad och kataloger som erbjuder aktuella erbjudanden och kampanjer. Dessa reklamblad innehåller information om nedsatta priser, rabatter och specialerbjudanden på olika produkter i deras sortiment. Det är ett sätt för Lekia att kommunicera med sina kunder och erbjuda dem möjlighet att göra bra affärer. \n\nNederst på denna sida hittar du de aktuella reklambladen från Lekia som ger dig chansen att hitta de bästa priserna. Sätt igång och börja spara redan nu!\n\n**Lekias butiker och deras arbete för en hållbar planet**\n\nLekias butiker välkomnar besökare med en lekfull och inspirerande atmosfär. Butikerna är indelade i olika avdelningar, vilket underlättar för kunderna att hitta de leksaker de söker. Utöver det är butikspersonalen på Lekia kända för sin vänlighet och expertis då de strävar efter att skapa långvariga relationer med sina kunder. De står alltid redo att ge råd och hjälpa kunderna att hitta de perfekta leksakerna som passar just deras barns ålder och intressen. Deras kunskap om leksaker och spel är oslagbar och bidrar till en positiv och minnesvärd shoppingupplevelse för varje kund.\n\nSom en ansvarsfull aktör inom leksaksbranschen, har Lekia ett fokus på hållbarhet. De arbetar aktivt med att minska sin påverkan på miljön genom att erbjuda miljövänliga och hållbara leksaker när det är möjligt. Dessutom strävar de efter att ha en etisk och ansvarsfull leverantörskedja för att bidra till en mer hållbar framtid. Lekia vill vara en förebild när det gäller hållbarhet och inspirera både kunder och andra företag att göra mer för miljön och samhället. Genom att erbjuda hållbara produkter och aktivt arbeta med hållbarhetsfrågor, vill de vara en del av lösningen för en bättre och mer hållbar värld.\n\n**Lekias öppettider - något du kan lita på!**\n\nFör att möta kundernas behov av flexibilitet och tillgänglighet, har Lekia generösa öppettider. Många av deras butiker har förlängda öppettider både under vardagar och helger. Detta gör det enkelt för familjer att besöka butikerna när de har tid och behov av att handla leksaker och spel.\n\nLekia strävar efter att vara en pålitlig destination för sina kunder och ha öppet när det passar dem bäst. Detta är särskilt viktigt under högtider och semestrar, då barnen och föräldrarna har mer tid att spendera tillsammans och leka.\n\nDu kan hitta mer information om specifika Lekia butiker och deras öppettider längst ner på denna sida! Kom ihåg att öppettider kan variera från affär till affär, så håll koll att du kollar på den rätta butiken.",
+      "website": "http://lekia.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "JYSK",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "JYSK",
+      "publicId": "7b55u3",
+      "slugs": [
+        "JYSK"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fn4ueCyGT39WKdvVahixdH&w=300&s=4635652ebf5595ab0018e6e9f682c949",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FdKDklpOdIOD-n2SO4MW58&w=300&s=cb68ef5fa0adf8a9991806ce7f3db223",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7b55u3%2FD_aNh8SM1DfeG6g9vlw_Z&w=300&s=179fa1325dc7b72e2f09c33f5e297f15",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7b55u3%2FJ1GdYSEAjoygZF04azf3X&w=300&s=dd5211d9b90fef7da0f7c05101397db8",
+      "primaryCategoryId": "interior",
+      "primaryColor": "#143c8a",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Kolla in Jysk reklamblad för erbjudanden som du inte vill missa på allt från sängar till gardiner. Utforska Jysk stora sortiment till nedsatta priser och planera ditt nästa besök till Jysk. Oavsett om du ska förnya sovrummet eller behöver en ny kontorsstol, har Jysk en lösning för dig.",
+      "markdownDescription": "Jysk är en skandinavisk hem- och inredningskedja med rötter djupt förankrade i nordisk design, enkelhet och låga priser. Historien om Jysk började i Danmark, men har sedan dess spridit sig till flera olika länder i hela Europa. Jysk är idag en stor kedja, som är känd av många för sitt enkla uttryck och låga priser. Jysk erbjuder ett stort sortiment av möbler och inredning för varje vrå av hemmet, och du kan hitta allt från små prydnadsföremål, kuddar och ljus till större möbler som sängar och bord. Jysk samlar allt detta och mycket mer under ett tak med sitt enkla utseende och design. Du hittar Jysk möbler och mer till särskilt låga priser i deras katalog, som finns nedanför på denna sida.\n\n**Jysk mångsidiga sortiment**\n\nHos Jysk finns något för alla smaker. Med ett stort utbud av Jysk möbler, sängar, trädgårdsmöbler, gardiner och mycket mer, är de ett av de mest mångsidiga möbelvaruhusen i Sverige. Du kan hitta det stora utbudet av Jysk möbler i ett av deras många varuhus runt om i landet, eller upptäcka de senaste Jysk erbjudandena i deras katalog här på sidan. Med Jysk erbjudanden på möbler och mer kan du få mycket för pengarna, och detta gäller oavsett om du letar efter nya trädgårdsmöbler, en bekväm Jysk säng eller praktisk förvaring. Jysk erbjuder ett varierat sortiment av produkter, som uppdateras ofta och som passar till många olika smaker och behov.\n\n**Jysk varuhus**\n\nJysk möbelvaruhus erbjuder inte bara ett brett sortiment, utan också inspirerande utställningsrum med Jysk möbler, där du kan få inspiration och nya idéer till ditt nästa inredningsprojekt. Med möjlighet för leverans eller upphämtning via click & collect gör Jysk det också enkelt för dig om du vill beställa dina möbler online och hämta dem i ditt närmaste Jysk varuhus. I ditt närmaste Jysk varuhus hittar du det stora utbudet av allt från sängar till gardiner och badmattor samt andra Jysk produkter. \n\n# **Jysk erbjudande och reklamblad**\nHos Jysk finns det ofta nya erbjudanden att dra nytta av. Med Jysk reklamblad, som du kan hitta längst ner på denna sida, har du ett hav av erbjudanden som kan göra ditt nästa inredningsprojekt budgetvänligt. Jysk annonsblad är din guide till att förnya ditt hem till ett lågt pris. Så oavsett vad du letar efter, kan du kolla in Jysk rea på möbler, inredning, pynt och annat för att fullborda ditt inredningsprojekt. Jysk förstår vikten av att ge kunderna valuta för pengarna.\n\n# **Jysk öppettider**\nDet är viktigt att känna till Jysk öppettider, eftersom dessa varierar från butik till butik. Du kan enkelt hitta Jysk öppettider längst ner på denna sida. Med massor av Jysk butiker utspridda över hela landet hittar du enkelt en butik nära dig. Dessa butiker kan ha varierande öppettider så se till att kolla upp ditt närmaste Jysk öppettider innan du ger dig ut och shoppar. Att besöka ett Jysk varuhus är en upplevelse, där man kan bli fylld med inspiration samt hitta massor av produkter till attraktiva priser.",
+      "website": "http://jysk.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Coop X:-TRA",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Coop X:-TRA",
+      "publicId": "IHDhNs",
+      "slugs": [
+        "Coop-X-TRA"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIHDhNs%2FozGpVEq4qAHF3vrQ42qlm&w=300&s=9c4c87f1012d0f5fa264b6e6f0ff89f7",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIHDhNs%2F8znjHq5cZQguBGN4RqdSe&w=300&s=c40201785c2a53eaa90922ac515b421d",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIHDhNs%2Fm_Ub5bZCOsvfhN5oNY2Nf&w=300&s=c3eb81956740777cd60d5e416d6675ef",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIHDhNs%2Fm__FEn6y2bQ7I0-auJACJ&w=300&s=ff292112fe7918b769d76bcfe8938555",
+      "primaryCategoryId": "groceries",
+      "primaryColor": "#E63E14",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Upptäck fantastiska erbjudanden hos Coop X:-tra. Varje vecka presenteras oslagbara veckoerbjudanden från Coop X:-tra, som du inte vill missa. Bläddra igenom Coop X:-tras reklamblad för att utforska de senaste erbjudandena och inspireras i din vardag.",
+      "markdownDescription": "**- Coops främsta lågpriskedja**\n\nCoop X:-tra, en del av Coop-koncernen i Sverige, har blivit en favorit bland fyndjägare, shoppingentusiaster och de som söker kvalitetsprodukter till förmånliga priser. Tack vare Coop-koncernens kooperativa natur kan de fokusera helt på kundernas behov. CoopX:-tra är Coops främsta lågpriskedja. Med över 50 butiker runt om i Sverige erbjuder Coop X:-tra ett brett sortiment av dagligvaror till ständigt låga priser, alltid med målet att ge kunderna valuta för pengarna. Håll utkik efter veckans erbjudanden i Coop X:-tras reklamblad.\n\n**Coop X:-tra sortiment**\n\nCoop X:-tra är känt för att vara Coops mest prisvärda kedja, där priserna är pressade till max för att kunderna ska få så mycket som möjligt för pengarna, utan att tumma på Coops kända kvalitet. Med ett brett sortiment av allt du behöver i vardagen är Coop X:-tra din lösning för kvalitet till låga priser. Med dagligvaror, hushållsprodukter, skönhetsprodukter och mycket mer, är Coop X:-tra dedikerad till att erbjuda sina kunder ett brett utbud av produkter till oslagbara priser.\n\n# **Coop X:-tra erbjudanden och reklamblad**\n\nCoop X:-tras reklamblad är din guide till att spara pengar på mat. Fyllt med erbjudanden på alla dina favoritvaror och med nya erbjudanden varje vecka, är Coop X:-tras reklamblad din bästa vän. Med det kan du planera dina inköp i förväg och hålla dig uppdaterad om de senaste erbjudandena. Se Coop X:-tras aktuella erbjudande längst ner på denna sida, så sätt igång att spara redan nu.\n\n# **Coop X:-tra öppettider**\n\nCoop X:-tras öppettider är anpassade för att ge dig flexibilitet när du handlar. Öppettiderna kan variera beroende på vilken Coop X:-tra du handlar hos. Men oavsett vilken Coop X:-tra du besöker kan du alltid räkna med bra priser, utmärkt service och kundvänliga öppettider. Här på sidan kan du enkelt hitta öppettiderna för din närmaste Coop X:-tra, så att du kan planera ditt nästa besök och se till att du inte missar några av de fantastiska erbjudanden som väntar på dig.",
+      "website": "https://x-tra.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Matvärlden",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Matvärlden",
+      "publicId": "4fc6nD",
+      "slugs": [
+        "Matvarlden"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPC57i0j5vflwuZUUcge24&w=300&s=a8896703601fd4974c96f02aaf6ec7bc",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8h6zaOi8jm2m2S38tjphM&w=300&s=182102334a6d2f4ca5e7026a7fa4972c",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4fc6nD%2F8syzS1-Fhspvtj9HaSwq8&w=300&s=4b34447be1a30ac62b2a6245adeb35f2",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4fc6nD%2FepMwyGQlN09w2ebaHV70Y&w=300&s=99aa3da116c4d1d4e2355cbf7fd926a2",
+      "primaryCategoryId": "groceries",
+      "primaryColor": "#fff8fb",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Som norra Europas största dagligvarukedja har Matvärlden satt fokus på att omfamna en mångfald av smaker från alla hörn av världen!",
+      "markdownDescription": "Genom sitt nytänkande, överkomliga priser, engagerade service och enastående utbud har Matvärlden skapat en plats där kunder kan utforska och njuta av smaker från hela världen. Välkommen till Matvärlden!\n\n**Historien Bakom Matvärlden**\n\nHistorien om Matvärlden är en berättelse om mod och innovation. Som norra Europas största dagligvarukedja med fokus på mångfaldig mat, har Matvärlden förändrat spelet i matkultur och dagligvaruhandel. De har inte bara lyckats samla smaker från hela världen under ett tak, utan även introducerat nya sätt att tänka kring matinköp och smakupplevelser.\n\nMatvärlden har en djup förståelse för att nöjda kunder är kärnan i en verksamhet. Genom att ständigt sträva efter att överträffa förväntningarna, skapar de en servicekultur som syns i varje aspekt av deras arbete. Matvärlden lyssnar aktivt på deras kunders feedback och tar till sig deras önskemål och behov. Eftersom de erbjuder produkter av hög kvalitet och varierat sortiment, kan de möjliggöra för att kunderna hittar precis det de söker.\n\nMatvärlden satsar även på att skapa en inbjudande atmosfär i deras lokaler, med rena och organiserade utrymmen som är lätta att navigera. De strävar efter att göra varje besök till en positiv upplevelse, oavsett om det handlar om att handla för veckan eller leta efter något speciellt. Målet är att varje besök i vår butik ska vara en positiv och minnesvärd upplevelse som gör kunderna nöjda och engagerade.\n\n# **Matvärlden Erbjudande och Reklamblad**\n\nMatvärldens affärsidé är tydlig: erbjuda kvalitativa matvaror till ett lågt pris. Denna dedikation till prissättning har gjort dem till en favorit bland prismedvetna konsumenter. Det är inte bara matvaror som finns tillgängliga, det är möjligheten att njuta av högkvalitativa smaker utan att behöva tömma plånboken. På Matvärlden hittar du det bästa av två världar.\n\nGenom att utvärdera kundernas preferenser och beteenden, skapar Matvärlden reklamblad som är anpassade efter deras behov. Denna anpassning gör det möjligt för kunderna att inte bara spara pengar, utan också upptäcka nya produkter och smaker som de kanske inte annars hade provat.\n\nDessutom använder mataffären sina kampanjer som ett tillfälle att främja hållbarhet och medveten konsumtion. Erbjudanden på ekologiska produkter eller rabatter på produkter som är i behov av att säljas snabbt för att undvika matsvinn är några exempel på hur Matvärlden visar sitt engagemang för miljön och samhället.\n\nMatvärlden erbjudanden och kampanjer skapar en atmosfär av spänning och värde för kunderna. Det blir inte bara en plats att handla nödvändigheter, utan en plats där kunderna kan upptäcka, spara och njuta av en mångfald av produkter till rimliga priser.\nLängst ner på denna sida hittar du alla aktuella Matvärlden reklamblad! \n\n**Service som gör skillnad**\n\nMatvärldens personal är alltid redo att svara på dina frågor, ge råd om produkter och guida dig genom smakernas värld. De lyssnar på kunderna, ger råd och delar med sig av sin passion för mat. Genom att erbjuda en personlig och trevlig atmosfär skapas en plats där kunderna inte bara handlar, utan också känner sig välkomna och omhändertagna. Det finns en servicefilosofi som går hand i hand med ett engagemang för kvalitet och hållbarhet, och de strävar efter att skapa en serviceupplevelse som är lika minnesvärd som deras produkter.\n\n# **Matvärlden Öppettider - Bekvämlighet och Tillgänglighet**\n\nMatvärlden anpassar sina öppettider för att passa deras kunders livsstil och behov. Med flexibla öppettider strävar de efter att vara tillgängliga när det passar deras kunder bäst. Det handlar om att göra matinköp enkelt och bekvämt, oavsett när på dagen det är. Scrolla längst ner på denna sida för att se öppettider för Matvärlden!",
+      "website": "http://www.matvarlden.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Pekås",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Pekås",
+      "publicId": "d47aqD",
+      "slugs": [
+        "Pekas"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FgCSXix1Vyr1TYpZthBCtQ&w=300&s=3973a2a4b430ddb5b70449a0d1169ee3",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQ9-_uXi3LjIDcbO_2JXCo&w=300&s=08a1756ecd424355996efdd07600061f",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fd47aqD%2FODSci6m-OZj6pNjpS5UxO&w=300&s=44ebcd30c613029d89b2eeaadf3c347f",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fd47aqD%2FjzTfVYpg4GhdR5JIP6rsy&w=300&s=0d656cfe2cc43f728fd9aeee498b9a57",
+      "primaryCategoryId": "groceries",
+      "primaryColor": "#e30613",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Pekås kommer som dotterbolag till Konsum Värmland, att vidareutvecklas, och ge de Värmländska hushållen en ökad valfrihet med en lågprisprofil som sedan länge är starkt förankrad i Värmland.",
+      "markdownDescription": "Pekås är en väletablerad livsmedelskedja med stark lokal förankring i Sverige. Med ett brett sortiment av dagligvaror, färskvaror och lokala specialiteter, strävar Pekås efter att erbjuda sina kunder en komplett och prisvärd shoppingupplevelse. Oavsett om du letar efter vardagsmat, festmat eller unika delikatesser, har Pekås något för alla smaker och behov. Med fokus på kvalitet, service och konkurrenskraftiga priser är Pekås ett populärt val för hushåll i hela regionen.\n\n**Pekås – Din lokala matbutik**\n\nPekås har en lång historia av att serva lokalsamhället med ett brett utbud av livsmedel och hushållsartiklar. Genom att prioritera färska råvaror, lokala produkter och personlig service har de byggt ett starkt förtroende hos sina kunder. Pekås engagemang för kvalitet och prisvärdhet gör dem till en viktig del av vardagen för många familjer.\n\n**Ett brett sortiment för alla tillfällen**\n\nPekås erbjuder ett omfattande sortiment av livsmedel, inklusive färsk frukt och grönsaker, kött, fisk, mejeriprodukter, bröd och bakverk. De har även ett stort utbud av konserver, torrvaror, drycker och hushållsartiklar. Oavsett om du planerar en snabb vardagsmiddag eller en stor fest, kan du hitta allt du behöver hos Pekås.\n\n**Fokus på lokala produkter**\n\nPekås värnar om det lokala och samarbetar med lokala producenter och leverantörer för att erbjuda sina kunder unika och högkvalitativa produkter. Genom att stödja lokala företag bidrar Pekås till att stärka den lokala ekonomin och bevara den lokala matkulturen.\n\n## **Hitta aktuella erbjudanden i Pekås reklamblad**\n\nVill du spara pengar på dina matinköp? Håll utkik i Pekås reklamblad! Där hittar du alltid aktuella erbjudanden och kampanjer på utvalda produkter. Perfekt om du vill fylla på skafferiet eller testa något nytt.\n\n**Allt för din matlagning**\n\nOavsett om du är en erfaren kock eller en nybörjare i köket, kan Pekås hjälpa dig att lyckas med din matlagning. Med ett brett utbud av ingredienser, recept och inspiration kan du skapa fantastiska måltider för dig själv och din familj.\n\n**En trevlig shoppingupplevelse**\n\nPekås strävar efter att erbjuda sina kunder en trevlig och bekväm shoppingupplevelse. Med vänlig personal, välfyllda hyllor och en ren och välordnad butiksmiljö kan du njuta av dina matinköp hos Pekås.\n\n**Pekås – din partner i vardagen**\n\nMed ett brett sortiment, konkurrenskraftiga priser och en stark lokal förankring är Pekås en viktig partner i vardagen för många hushåll. Besök din lokala Pekås-butik för att uppleva skillnaden!\n\n**Håll utkik i Pekås reklamblad för erbjudanden och rabatter**\n\nPassa på att göra ett bra köp genom att bläddra i Pekås reklamblad. Där hittar du alltid aktuella erbjudanden och rabatter på livsmedel och hushållsartiklar. Reklambladet uppdateras regelbundet, så håll utkik för att inte missa något!",
+      "website": "http://www.pekas.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Supergrossen",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Supergrossen",
+      "publicId": "34b3Rq",
+      "slugs": [
+        "Supergrossen"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fh1c3-DMtdVMXN7H_oMb8u&w=300&s=f286f12acd0bb9676264cfce099a2641",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fs-uzew18VFdzEPHlTRU5T&w=300&s=790311386892629165e7042734afc1c2",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fh1c3-DMtdVMXN7H_oMb8u&w=300&s=f286f12acd0bb9676264cfce099a2641",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fs-uzew18VFdzEPHlTRU5T&w=300&s=790311386892629165e7042734afc1c2",
+      "primaryCategoryId": "groceries",
+      "primaryColor": "#EE1C25",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Mat från alla världens hörn med kunnig personal som hjälper er att hitta det ni söker. Vi styckar och packar köttet själva i butiken för att kunna ge er fräscha råvaror till bra priser.",
+      "markdownDescription": "Supergrossen är en svensk detaljhandelskedja med ett brett sortiment av produkter för hem och fritid. Med flera varuhus runt om i landet erbjuder Supergrossen en mix av välkända varumärken och prisvärda alternativ, vilket gör det till en populär destination för hushåll och företag. \n\n### Ett varierat produktutbud\n\nSupergrossen utmärker sig genom sitt breda sortiment som spänner över flera kategorier. Här hittar du allt från verktyg och byggmaterial till trädgårdsprodukter, hushållsartiklar och fritidsutrustning. Detta gör Supergrossen till en one-stop-shop för många behov, oavsett om du planerar ett renoveringsprojekt, behöver nya redskap för trädgården eller letar efter praktiska lösningar för hemmet.\n\n### Fokus på prisvärdhet\n\nEn av Supergrossens främsta styrkor är dess fokus på att erbjuda produkter till konkurrenskraftiga priser. Genom att kombinera egna varumärken med etablerade märken kan Supergrossen erbjuda ett brett utbud av produkter i olika prisklasser. Detta gör det möjligt för kunderna att hitta prisvärda alternativ utan att kompromissa med kvaliteten.\n\n### För hemmafixare och proffs\n\nSupergrossen vänder sig till både hemmafixare och professionella hantverkare. Sortimentet inkluderar allt från grundläggande verktyg och material till mer avancerad utrustning och specialprodukter. Detta gör Supergrossen till en relevant aktör för alla som behöver produkter för bygg, renovering eller underhåll.\n\n### Produkter för fritid och trädgård\n\nUtöver produkter för hemmet erbjuder Supergrossen även ett brett utbud av produkter för fritid och trädgård. Här hittar du allt från trädgårdsredskap och utemöbler till grillar, pooler och fritidsutrustning. Detta gör Supergrossen till en populär destination för alla som vill njuta av utomhuslivet.\n\n### Aktuella erbjudanden i Supergrossens reklamblad\n\nFör att hålla koll på de senaste erbjudandena och kampanjerna är det en bra idé att bläddra i Supergrossens reklamblad. Där hittar du alltid aktuella rabatter och specialpriser på utvalda produkter. Reklambladet är ett utmärkt sätt att spara pengar och planera dina inköp.\n\n### En lokal aktör med brett sortiment\n\nSupergrossen är en etablerad aktör på den svenska marknaden och har byggt upp ett starkt rykte genom att erbjuda ett brett sortiment, konkurrenskraftiga priser och god service. Med sina många varuhus runt om i landet är Supergrossen en tillgänglig och pålitlig partner för alla som behöver produkter för hem och fritid.",
+      "website": "http://www.supergrossenhallunda.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Stora Coop",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Stora Coop",
+      "publicId": "6c28SD",
+      "slugs": [
+        "Stora-Coop"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6c28SD%2F85UHbKOwbKGRHwiSnPYRv&w=300&s=7ca2f41caf1a60424ac2064e21ad7b16",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6c28SD%2F3qoxJXnclnHrlC5IZ6lEH&w=300&s=7e06fc980abb00914aeecbdeddd1d874",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6c28SD%2FSaQcgq0MBIqvQ5r_Hc0-2&w=300&s=b9859c58ce514b1851d17844c9de36a1",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6c28SD%2FVk2WTtjd657NMwphQKwmv&w=300&s=dd8c2549a24db8943d64cf00125d2dbe",
+      "primaryCategoryId": "hypermarket",
+      "primaryColor": "#005537",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "På Stora Coop kan du handla god, bra mat ännu billigare. I reklambladet hittar du bl.a. erbjudanden på matvaror och produkter för hemmet och familjen.",
+      "markdownDescription": "Oavsett om du letar efter matvaror, hushållsvaror eller kläder, erbjuder Stora Coop-butikerna ett otroligt utbud av produkter till oslagbara priser. Som en one-stop-shoppingdestination för många har det blivit det bästa stället för ett stort utbud av matvaror och andra varor som behövs i både hushåll. Oavsett vad dina behov kan vara, från basförnödenheter till lyxartiklar, kommer du säkert att hitta något som passar din budget och dina intressen. Med sina bekväma lägen och vänliga personal är det ingen överraskning varför Stora Coop-butikerna är så populära. \n\n**Deli, fågel, fisk och kött – i Stora Coop såklart**\n\nStora Coop har allt som handlar om deli, fågel, fisk och kött! Här kan du hitta en mängd högkvalitativa ingredienser som garanterat får dina recept att sticka ut. Från färska styckningsbitar, färdiga smörgåsar och sallader till läcker rökt lax, kreativa skaldjursrätter och unika delikatesser, [Coop](https://ereklamblad.se/Coop) har något för alla. Vi köper alla våra produkter från endast de bästa leverantörerna så att du kan vara säker på att du får de bästa ingredienserna varje gång. \n\nStora Coop erbjuder ett brett utbud av färskt och gott kött till sina kunder. Deras köttavdelning är välsorterad med endast de finaste styckningsdelarna av premiumproteiner, allt från pålitliga lokala leverantörer. Urvalet inkluderar både konventionella och ekologiska alternativ, vilket ger kunderna gott om val när det kommer till deras middagsbord. Coop supermarket är känt för sitt omfattande utbud av färskt, kvalitetskött. Kunderna kan välja mellan en mängd olika snitt, såsom nötkött, fläsk, lamm och kyckling. På Stora Coop får kan du hitta allt inom kött på erbjudande, så ta alltid en titt i Stora Coops reklamblad innan du besöker butiken för att se vilka erbjudanden de kör med just nu.\n\n**Mejerivaror från lokala bönder av hög kvalitet**\n\nOm du letar efter ett sätt att stödja lokala bönder samtidigt som du fyller på med mejeriprodukter av hög kvalitet, är Stora Coop det perfekta stället att handla. Stora Coop Ligger i många städer över hela landet och är ett utmärkt sätt att hitta naturliga, hälsosamma mejerialternativ som är både läckra och etiskt producerade. Med ett brett utbud av ost, yoghurt, mjölk och mer kan shoppare vara säkra på att de kommer att hitta något som motsvarar deras preferenser och kostbehov. \n\nAtt handla mejeriprodukter kan vara en skrämmande uppgift, särskilt när man försöker hitta den bästa kvaliteten till ett överkomligt pris. Tack och lov finns det en enkel lösning: att köpa mejeriprodukter på Stora Coop. Förutom goda priser har Stora Coop även ett reklamblad som du hittar på eReklamblad. Deras reklamblad är fyllt med erbjudanden, rabatter och konkurrenskraftiga priser. Som ett resultat kan köp av mejeriprodukter på Stora Coop hjälpa shoppare att enkelt hitta varor av hög kvalitet samtidigt som de håller sig inom sin budget.\n\n# **Stora Coop och reklambladet**\n\nÄven om du alltid får goda priser på Stora Coop kan det vara en god idé att hålla utkik efter erbjudanden i Stora Coops reklamblad. I reklambladet hittar du de bästa Stora Coop-erbjudandena som gör det möjligt för dig att storhandla, fylla upp eller småhandla till ett riktigt bra pris. Hos Stora Coop hittar du även “Tillfälligt parti erbjudanden” som betyder att det är varor med extra bra priser då de kommer att utgå ur sortimentet framöver. Så om du vill göra ett klipp så ska du ta en tur förbi Stora Coop efter att ha kollat i deras reklamblad – som du alltid kan hitta här på eReklamblad.\n\n# **Stora Coop butiker och öppettider**\n\nStora Coop har över 80 butiker fördelade över hela Sverige som alla garanterar ett brett sortiment av råvaror och produkter av högsta kvalitet inom alla priskategorier. Stora Coops öppettider är 07-22:00 alla dagar i veckan. Det kan naturligtvis förekomma ändringar i öppettiderna beroende på säsong, helgdagar och andra lokala händelser. Därför bör du alltid kontrollera öppettiderna nedan och hitta din lokala Stora Coop innan besöket.",
+      "website": "http://coop.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Jula",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Jula",
+      "publicId": "ecf1H3",
+      "slugs": [
+        "Jula"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fetaproduction%2Fimg%2Flogo%2Fdefault%2F00ifgiwpt2rsbjfb.png&w=300&s=fc59a7765563b16e18e5414a3bcb7df6",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fetaproduction%2Fimg%2Flogo%2Fpageflip%2F00ifgiwq0eoi75at.png&w=300&s=bccaaf74976c7701e484bda317f8356e",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fecf1H3%2F7qjZnvBcfZfDCRe9c0a0G&w=300&s=6c1e1ce11d35f18d27ccd06a19374eac",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fecf1H3%2FDPj_KeFwxS8Ifh9lZxkWI&w=300&s=96a60b024f121ccddbe30d110df42824",
+      "primaryCategoryId": "diy",
+      "primaryColor": "#db011b",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Jula har allt som den händiga kan önska sig. Hitta utvalda produkter till hem, trädgård eller fritid till låga priser. Se kampanjer i reklambladet.",
+      "markdownDescription": "Jula är den perfekta destinationen för alla som har ett intresse för praktiska prylar och verktyg. Oavsett om du letar efter hushållsartiklar eller något som hjälper dig med ditt nästa gör-det-själv-projekt, så har Jula något för dig. Deras breda produktsortiment omfattar allt från små handverktyg till större trädgårdsmaskiner.\n\nFöretaget är stolt över att erbjuda högkvalitativa och pålitliga produkter till konkurrenskraftiga priser. Alla produkter är noggrant utvalda av ett team av erfarna proffs som säkerställer att kunderna endast får det bästa produkterna som finns på marknaden. Utöver sitt utbud av 15 000 produkter erbjuder Jula också flera bekväma tjänster inklusive öppet köp i 60 dagar, hämta i varuhus och drive-in alternativ – vilket gör det enklare än någonsin att få exakt det du behöver snabbt och effektivt.\n\n**Fokus på nyckelprodukter sedan sin början**\n \nSedan sin start på 80-talet har Julas fokus varit på produkterna. Det började med en vedkap och en vedklyv i 1979. Mycket har hänt med utbudet sedan dess, men det har aldrig påverkat priserna som alltid hållit sig konkurrenskraftiga. \n\nIdag hittar du 58 varuhus i Sverige och 110 butiker i allt som sträcker sig över Norge och Polen. \n\n**Jula - Verktyg och maskiner** \n\nFörbered dig inför ditt nästa byggprojekt med rätt verktyg och maskiner. Hos Jula hittar du allt från handverktyg och mätinstrument till elverktyg och kompressorer. Du hittar även alla slags tillbehör, förvaring och andra smarta lösningar. \n\n**Jula – Bygg och färg**\n\nUtforska Julas gör-det-själv kategori och hitta allt du behöver för att komma igång med ditt nästa projekt där hemma. En bred kategori som innehåller spikar och skruvar, beslag, färg och fog, stegar och ställningar, förvaring, vatten, värme, ventilation och mycket mer. \n\n**Jula – El och belysning**\n\nBelysning är en viktig del av hemmet. Hos Jula hittar du både inom- och utomhusbelysning för alla utrymmen. Från de enklaste elinstallationer, ljuskällor och armaturer till olika slags ljusslingor och arbetsbelysning.\n\n**Jula – Det ska vara enkelt att arbeta i trädgården**\n\nJula har ett brett utbud av trädgårdsredskap och maskiner som gör det lite enklare och roligare att tillbringa dagen i trädgården. Du hittar verktyg och redskap för alla säsonger – förbered dig för vintern med en snöslunga och vedklyv eller våren med en vattenspridare. Hos Jula hittar du även allt du kan tänkas behöva när det kommer till utomhusdekorationer och möbler: växthyllor, bänkar, stängsel, paviljonger och golvplattor.\n\n**Jula – Så mycket mer** \n\nJulas utbud sträcker sig ännu längre! Ett byggprojekt kräver inte bara rätt utrustning, men även rätt kläder och skydd. Hitta dina nästa arbetshandskar, byxor, regnkläder och andra accessoarer som kan hjälpa dig i vardagen. Skydden ska man heller inte snåla med: hörselkåpor, overaller, skyddsglasögon, halvmasker och skyddshjälmar gör stor skillnad när du arbetar med diverse maskiner, färg och kemikalier.\n\nDet finns även något som heter fritid! Hos Jula finns det inte bara produkter för hem och olika projekt. Utforska utbudet av fritidsprodukter som sträcker sig över kategorierna friluftsliv och camping, båt och fiske, cykel, träning, husdjur, pool och bad, leksaker, väskor och tillbehör.\n\nDet är även viktigt att ta hand om bilen och ha ett välutrustat garage. Hitta diverse bilvårdsprodukter och biltillbehör hos Jula, inklusive högtryckstvättar, släpvagnar och hjulstopp. Till garaget finns utrustning som golvskydd, verktygslådor, lyftbalkar och mycket mer.\n\nSist men inte minst, hem och hushåll! En bred kategori där Jula har något för varje rum i hemmet. Heminredning, köksartiklar, köksmaskiner, städ, hemelektronik, kontorsprylar och viktiga produkter för exempelvis brand och säkerhet. \n\n# **Hitta din lokala Jula och dess öppettider**\n\nMed över 58 Jula varuhus i hela Sverige så vet du att det finns en Jula nära dig. De flesta varuhus håller öppet 08-20:00 i vardagarna, men vissa butiker kan ha särskilda öppettider. Nedan hitta du öppettider på din närmaste Jula-butik. \n\n# **Få aktuella kampanjerbjudanden i reklambladet nedan**\n\nJula har gett ut reklamblad sedan 80-talet så man kan säga att det är del av deras identitet och expertis. I reklambladet får du aktuella kampanjerbjudanden på produkter inom alla diverse kategorier som sträcker sig utöver hem, trädgård, fritid, garage och mer. Jula har 15 000 noggrant utvalda produkter som de vet att de kan erbjuda konkurrenskraftiga priser på.\n\nJulas reklamblad visar inte bara de bästa produkterna till de bästa priserna, men inspirerar dig med nya lösningar, verktyg och bl.a. heminredning som gör din vardag lite enklare eller mysigare. Inom dessa kategorier hittar du ett utbud av de populära och marknadsledande varumärkena som levererar kvalitetsprodukter.",
+      "website": "http://jula.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "jem & fix",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "jem & fix",
+      "publicId": "e48cFL",
+      "slugs": [
+        "jem-fix"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F36SgHD8dWaBjO1N2ncnpe&w=300&s=3c32f40ab86d95482558eb938def951a",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8MNrlmDpx7FeiRfaeu1hZ&w=300&s=25782d08725bc0cd9b4aaad671cdf541",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fe48cFL%2FyCj3sGe8TQJuhteGAbaye&w=300&s=fef4f3cb1486461cbd5589895f9696e6",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fe48cFL%2FYn8mcaaFhSDTDr19G00Ui&w=300&s=675bd0e2f13684326f392d0b130436ca",
+      "primaryCategoryId": "diy",
+      "primaryColor": "#e30613",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "jem & fix är Nordens ledande lågprisbyggmarknad, med ett stort utbud av produkter inom bygg, hem och trädgård. Vår målsättning är att erbjuda så billiga priser som möjligt, för att fler ska ha möjligheten att själva fixa, renovera och uppdatera i hus och trädgård.",
+      "markdownDescription": "jem & fix är Nordens ledande lågprisbyggmarknad, med ett stort utbud av produkter inom bygg, hem och trädgård. Vår målsättning är att erbjuda så billiga priser som möjligt, för att fler ska ha möjligheten att själva fixa, renovera och uppdatera i hus och trädgård. Det spelar ingen roll om du är professionell hantverkare eller glad hemmafixare. Hos oss ska kunden alltid känna sig trygg med att få mer fix för pengarna!\n\n**jem & fix reklamtidning – nya erbjudanden varje vecka**\n\nHåll dig uppdaterad om produktnyheter och ta del av mängder av fantastiska erbjudanden varje vecka. Du hittar alltid våra aktuella reklamblad på denna sida.\n\n**Butiker från Norr till Söder – samt online på jemfix.se**\n\nVi har över 60 butiker utspridda i Sverige och totalt över 200 i Skandinavien. Dessutom en uppskattad webbshop där du kan beställa hem dina varor snabbt och smidigt. Välkommen att se dina närmast belägna jem & fix-butiker längre ner på sidan.",
+      "website": "https://jemfix.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "thansen",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "thansen",
+      "publicId": "IWZPPd",
+      "slugs": [
+        "thansen"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIWZPPd%2FzSYE2Ggyv6K9orp5bckdv&w=300&s=a422a4d6dce9593669c1e43cf857ccce",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIWZPPd%2FpD_ow-alOvDucAN7VhNe8&w=300&s=a6f46beffb834d40bfa2296305717df4",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIWZPPd%2FzB1ncIiZjtoBy_xJn8G5E&w=300&s=72f3f75f14a68e66dd8a09300446b4fd",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIWZPPd%2FOaYI02Wp-J89zNG0ihfd_&w=300&s=deef4556cd134077e978fe6d0f0bcef5",
+      "primaryCategoryId": "diy",
+      "primaryColor": "#1f468b",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Bildelar och biltillbehör för din bil. Köb campingtilbehör, cykel eller reservdelar till scooter, motorcykel och mycket mer.",
+      "markdownDescription": "Vi erbjuder ett komplett produktsortiment: bildelar/bilutrustning, däck/fälgar, cyklar, camping/marin, elektronik/mobil, verktyg och lek/fritid. Här hittar du välkända premiummärken som THULE, OSRAM, BOSCH och Continental samt ett brett utbud av prisvärda alternativ.",
+      "website": "https://www.thansen.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Erlandsons Brygga",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Erlandsons Brygga",
+      "publicId": "693fIC",
+      "slugs": [
+        "Erlandsons-Brygga"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F693fIC%2FPa7Fd35AJuWM1tmhOYKkN&w=300&s=84a989b73f1d71b91c83dce1dd5bc661",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F693fIC%2F79ZmSd7YlFoY3MiHWvwvN&w=300&s=a1b99395cbc6ca83613bc5a63071ae62",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F693fIC%2FpGLJsudyW9hFvuOlf73Ky&w=300&s=06b0d98be8fc51bc0b47a39328e1b57d",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F693fIC%2F5uMthLp6NSgGvbhqZi74r&w=300&s=1e9df70c03549e04b8954a8fe07c5982",
+      "primaryCategoryId": "diy",
+      "primaryColor": "#ffffff",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Sveriges mesta prispressare på båttillbehör sedan 1992",
+      "markdownDescription": "Erlandsons Brygga är en välkänd aktör i Stockholms skärgård, specialiserad på båtliv och marina tjänster. Beläget i en idyllisk miljö erbjuder de ett brett utbud av produkter och tjänster för båtägare och skärgårdsentusiaster. Oavsett om du behöver hjälp med båtförvaring, service, reparationer eller är ute efter att köpa ny eller begagnad båt, är Erlandsons Brygga en pålitlig partner. Med en lång historia och gedigen erfarenhet har de etablerat sig som en viktig knutpunkt för båtlivet i regionen. \n\n**Ett komplett servicecenter för båtägare**\n\nErlandsons Brygga erbjuder ett komplett utbud av tjänster för att underlätta båtlivet. Här kan du få hjälp med allt från vinterförvaring och underhåll till reparationer och installationer. Deras kunniga personal har expertis inom olika båttyper och motorer, vilket garanterar att din båt får den bästa möjliga servicen. De erbjuder även tjänster som bottenmålning, polering och vaxning för att hålla din båt i toppskick.\n\n**Brett utbud av båtar och tillbehör**\n\nFörutom sina tjänster har Erlandsons Brygga även ett brett utbud av båtar till salu. Här hittar du både nya och begagnade båtar från välkända varumärken. Oavsett om du är ute efter en motorbåt, segelbåt eller en mindre roddbåt, kan du hitta något som passar dina behov och preferenser. De erbjuder även ett stort utbud av båttillbehör, inklusive navigationsutrustning, säkerhetsutrustning och komfortutrustning.\n\n**En mötesplats för skärgårdsentusiaster**\n\nErlandsons Brygga är mer än bara en marina – det är en mötesplats för människor som älskar skärgården och båtlivet. Här kan du träffa andra båtägare, utbyta erfarenheter och få tips och råd. De arrangerar även olika evenemang och aktiviteter under säsongen, som båtmässor, provkörningar och sociala sammankomster. \n\n## **Hitta aktuella erbjudanden och nyheter från Erlandsons Brygga**\n\nVill du hålla dig uppdaterad om de senaste nyheterna och erbjudandena från Erlandsons Brygga? Besök deras webbplats eller följ dem på sociala medier. Där hittar du information om nya båtar till salu, kampanjer på tjänster och tillbehör, samt kommande evenemang. \n\n**Din partner för ett bekymmersfritt båtliv**\n\nMed Erlandsons Brygga som partner kan du njuta av ett bekymmersfritt båtliv. De tar hand om allt det praktiska, så att du kan fokusera på att uppleva skärgården och skapa minnen. Oavsett om du är en erfaren båtägare eller nybörjare, kan du lita på att Erlandsons Brygga ger dig den bästa möjliga servicen och supporten.\n\n**Båtförvaring i trygg och säker miljö**\n\nErlandsons Brygga erbjuder säker och trygg båtförvaring under både sommar- och vinterhalvåret. Deras anläggning är utrustad med moderna säkerhetssystem och övervakas kontinuerligt för att skydda din båt mot skador och stöld. Du kan välja mellan olika förvaringsalternativ, beroende på dina behov och budget.\n\n**Service och underhåll för alla båttyper**\n\nOavsett vilken typ av båt du har, kan Erlandsons Brygga hjälpa dig med service och underhåll. Deras erfarna mekaniker har kunskapen och verktygen som krävs för att utföra alla typer av reparationer och underhållsarbeten. De använder endast högkvalitativa reservdelar och följer tillverkarnas rekommendationer för att säkerställa att din båt fungerar optimalt.\n\n**Erlandsons Brygga – din kompletta marina i Stockholms skärgård**\n\nMed ett brett utbud av tjänster, båtar och tillbehör är Erlandsons Brygga din kompletta marina i Stockholms skärgård. Besök dem idag och upplev den personliga servicen och expertisen som har gjort dem till en ledande aktör i branschen.\n\n**Håll utkik efter Erlandsons Bryggas erbjudanden och kampanjer**\n\nPassa på att göra ett bra köp genom att hålla utkik efter Erlandsons Bryggas erbjudanden och kampanjer. De erbjuder regelbundet rabatter på tjänster, båtar och tillbehör. Genom att prenumerera på deras nyhetsbrev eller följa dem på sociala medier kan du vara säker på att inte missa något!",
+      "website": "http://www.erlandsonsbrygga.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "vidaXL.se",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "vidaXL.se",
+      "publicId": "uzYbWX",
+      "slugs": [
+        "vidaXLse"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuzYbWX%2FYF3RsYzrlWKO9BrDnnWJe&w=300&s=0233495153c2b8bbf7afb150d919e64a",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuzYbWX%2FBD9sBOx8Gg41HEj3FBrhz&w=300&s=a7a22d62ec22741859ef7b91e95b1327",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuzYbWX%2Fjxs8CDxv6QjjyEScE76_e&w=300&s=584a59d1ee2f139270a7cf04dc4a1623",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuzYbWX%2FXjMN8-ePY3Js7IkvhUkI2&w=300&s=7c1e5aefe440e4f9199ee21c93babd8e",
+      "primaryCategoryId": "interior",
+      "primaryColor": "#ffffff",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Vi är en global online-återförsäljare som säljer allt du behöver för ditt hem och din trädgård. Vi anser att du enkelt ska kunna förvandla ett hus till ett vackert och funktionellt hem i varje skede av ditt liv.\n\n",
+      "markdownDescription": "vidaXL.se är en online-återförsäljare som erbjuder ett brett sortiment av produkter för hem, trädgård, fritid och mycket mer. Med ett stort utbud och konkurrenskraftiga priser strävar vidaXL efter att göra shopping enkelt och prisvärt för alla. Oavsett om du letar efter möbler, trädgårdsredskap, sportartiklar eller husdjurstillbehör, har vidaXL något för dig. Med en stark online-närvaro och snabb leverans är vidaXL ett bekvämt val för kunder i hela Sverige. \n\n**vidaXL:s historia**\n\nvidaXL har etablerat sig som en betydande aktör inom e-handeln i Europa. Genom att fokusera på ett brett sortiment, låga priser och effektiv logistik har de byggt ett starkt varumärke som många kunder litar på. vidaXL strävar efter att erbjuda ett stort utbud av produkter till konkurrenskraftiga priser, vilket gör det möjligt för kunderna att hitta allt de behöver på ett och samma ställe.\n\n**Ett brett sortiment för alla behov**\n\nvidaXL erbjuder ett omfattande sortiment av produkter för hemmet, inklusive möbler, inredning, belysning och textilier. De har även ett stort utbud av trädgårdsredskap, växthus, utemöbler och pooler. För den aktiva kunden finns sportartiklar, träningsutrustning och cyklar. Dessutom erbjuder vidaXL ett brett utbud av produkter för husdjur, barn och hobby.\n\n**Enkel och bekväm shoppingupplevelse**\n\nvidaXL är mer än bara en butik – det är en plats där du kan hitta allt du behöver för ditt hem och din fritid. Deras användarvänliga webbplats gör det enkelt att söka, jämföra och beställa produkter. Med snabba leveranser och enkla returer kan du vara säker på en smidig shoppingupplevelse.\n\n## **Hitta aktuella erbjudanden i vidaXL:s reklamblad**\n\nVill du fynda produkter för hem och trädgård till extra bra priser? Håll utkik i vidaXL:s reklamblad! Där hittar du alltid aktuella erbjudanden och kampanjer på utvalda produkter. Perfekt om du vill inreda ditt hem, rusta upp trädgården eller hitta något nytt till din hobby.\n\n**Allt för ditt hem och din trädgård**\n\nOavsett om du renoverar, inreder eller bara vill piffa upp ditt hem, kan vidaXL hjälpa dig att hitta de produkter du behöver. Med ett brett utbud av möbler, belysning och inredningsdetaljer kan du skapa ett personligt och trivsamt hem. För trädgårdsentusiasten finns allt från trädgårdsredskap och växthus till utemöbler och grillar.\n\n**Produkter för en aktiv fritid**\n\nFörutom produkter för hem och trädgård erbjuder vidaXL ett stort utbud av sportartiklar, träningsutrustning och cyklar. Här hittar du allt du behöver för att hålla dig aktiv och njuta av din fritid. Oavsett om du gillar att träna, cykla, fiska eller campa, har vidaXL något för dig.\n\n**vidaXL – din partner för ett bekvämt och prisvärt liv**\n\nMed en stark online-närvaro och snabba leveranser är vidaXL alltid nära till hands. Besök deras webbplats för att se hela sortimentet och få inspiration till ditt hem och din fritid. Du kan också följa dem på sociala medier för att få de senaste nyheterna och erbjudandena.\n\n**Håll utkik i vidaXL:s reklamblad för erbjudanden och rabatter**\n\nPassa på att göra ett bra köp genom att bläddra i vidaXL:s reklamblad. Där hittar du alltid aktuella erbjudanden och rabatter på produkter för hem, trädgård och fritid. Reklambladet uppdateras regelbundet, så håll utkik för att inte missa något!",
+      "website": "https://www.vidaxl.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "ILVA",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "ILVA",
+      "publicId": "lkmvmH",
+      "slugs": [
+        "ILVA"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FlkmvmH%2FkGBXyWDB1iuEb2wZm8d1H&w=300&s=7c3261b7e01e2016109972185eb48087",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FlkmvmH%2FTZd96nRjUZC-zw-JwKpzf&w=300&s=a2e65bafe48c3d451e2ba0896151fa45",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FlkmvmH%2F0NxnBbwNgEGIhBHv4otNI&w=300&s=8b58094d9287ee66d4ebd7312d279edc",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FlkmvmH%2F0r4_7BfVrBDZ7sT_5vlBa&w=300&s=64857dfc00869157d91686bcf58d7d5f",
+      "primaryCategoryId": "interior",
+      "primaryColor": "#000000",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Bläddra igenom designmöbler och inredning till kampanjpris i ILVA reklamblad. Här kan du hitta nedsatta priser på ett stort urval av ILVA möbler och hämta inspiration till ditt nästa inredningsprojekt.",
+      "markdownDescription": "ILVA började sin resa 1961 i Vanløse, Danmark. Snabbt blev ILVA ett populärt val av inredningsaffär, med sina unika designs och möbler. Många av deras designklassiker, som den färgstarka ILVA soffan, har blivit hjärtat av många hem. ILVA erbjuder dessutom massor av andra spännande möbler, inklusive ett stort urval av ILVA soffbord, ILVA matbord och ILVA utomhusmöbler, som följer deras estetik och känsla för design. Varje besök till ett ILVA varuhus eller ILVA reklamblad är en källa till inspiration. Deras showrooms är fyllda med nya idéer till ditt hem, och allt kan hitta under ett och samma tak.\n\n**ILVA sortiment av möbler**\n\nMed ett av Sveriges mest omfattande sortiment av möbler och inredning, erbjuder ILVA massor av erbjudanden, som du hittar både online och i deras varuhus. Att besöka ett ILVA varuhus är en upplevelse i sig. Det är inte bara ett varuhus, utan en inspirationskälla för ditt nästa inredningsprojekt. ILVA säljer möbler med fokus på både intressanta former och färger. Upplev de spännande färgkombinationerna av ILVA möbler, som särskilt utmärker sig i vacker skandinavisk design och estetik. Du hittar detta och mycket mer i ditt närmaste ILVA varuhus eller kan börja shoppa i förväg genom att läsa ILVAs reklamblad, som du hittar längst ner på denna sida.\n\n**Skandinavisk design med ILVA**\n\nSom en av de ledande möbelförsäljare med flera varuhus i hela Norden, är ILVA en välkänd kedja bland inredningsentusiaster. ILVA är känd för sin skandinaviska design och eleganta stil. ILVA är särskilt känd för sin ikoniska ILVA-soffa, som i många årtionden har förvandlat vardagsrum till varmare och mer färgglada rum. ILVA erbjuder möbler som kan skapa både ett mysigt och stilfullt hem, där det finns plats för hela familjen. Hos ILVA finns det möbler för alla, oavsett budget och behov, tack vare deras breda sortiment som tillgodoser många smaker och finns i olika prisklasser. Oavsett om du är ute efter en ILVA-soffa, ny belysning, ILVA-utomhusmöbler eller kanske ett nytt soffbord, kommer du alltid att hitta inspiration i deras breda och unika sortiment.\n\n# **ILVA erbjudanden och reklamblad**\nHos ILVA hittar du regelbundet nya erbjudanden på möbler. ILVA reklamblad har erbjudanden på allt från ILVA matbord, stolar, soffor och mycket mer för ditt hem. Planera ditt nästa besök hos ILVA och håll utkik efter deras reklamblad, så att du kan förvandla ditt hem med design och värme till nedsatt pris. Med ILVA breda sortiment och regelbundna ILVA rea och kampanjer får du mer för pengarna. Du kan se de senaste annonserna för möbler och inredning i ILVA annonsblad nederst på denna sida.\n\n**Beställ dina ILVA möbler online**\n\nILVA erbjuder leverans av dina ILVA möbler direkt till dörren för att möta dina behov. Det är också möjligt att hämta dina nya ILVA möbler, som kan skickas runt till de olika varuhusen. Oavsett vad du väljer kommer dina nya ILVA möbler hem till sitt nya hem i gott skick.\n\n# **ILVA öppettider**\nDet är alltid en bra idé att kolla upp ditt närmaste ILVA öppettider, eftersom dessa kan variera från varuhus till varuhus. Du hittar all information om ILVA öppettider för deras butiker här på sidan, där du kan ta reda på var ditt närmaste ILVA varuhus ligger och när det är öppet. ILVA öppettider möter kundens behov, och på så sätt blir det enkelt att hitta tid för din shopping.",
+      "website": "https://ilva.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Bordershop",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Bordershop",
+      "publicId": "ZWPBX3",
+      "slugs": [
+        "Bordershop"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZWPBX3%2FjkKSpvR7bHmfV5ZWYJoq3&w=300&s=1b3843a9fdef55540ae88933f00642c3",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZWPBX3%2F_Y_646OZiAhaorq5rLjW7&w=300&s=4e513afd0d9ece6fd4f6b093f43ed8ae",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZWPBX3%2F0CzwalITRTlmMeH5CQMEj&w=300&s=1a275011936c7187f0f586772bb44b9a",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZWPBX3%2FfFYG3ubQlV5Xb21s6h6W-&w=300&s=15062cf74dce9e83b63d4ea51defe766",
+      "primaryCategoryId": "cross_border",
+      "primaryColor": "#001c54",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Bordershop, belägen vid den tysk-danska gränsen, är en populär destination för gränshandel bland många. Bordershop erbjuder ett brett sortiment av varor till låga priser. Deras öppettider och frekventa erbjudanden, som kan utforskas i Bordershop reklamblad, blir shoppingen både enkel och förmånlig.",
+      "markdownDescription": "## *- Enkel gränshandel med Bordershop*\n\nBordershop har länge stått som en symbol för gränshandel och har varit en eftertraktade destination för alla som söker kvalitetsprodukter till förmånliga priser. Genom åren har den blivit lättillgänglig med Scandlines färjor så du enklare kan dra nytta av Tysklands lägre priser!\n\n## *Bordershop sortiment*\nMed ett brett sortiment av allt du kan önska dig, står Bordershop som en favorit destination för många shoppare. Oavsett om du är ute efter matvaror, godis eller andra produkter, har Bordershop något för alla. Det är en plats där kvalitet möter variation, och där varje besökare kan hitta något som passar deras behov. Bordershop erbjuder även en omfattande online-upplevelse, där du kan förbeställa dina favoritvaror och hämta dem vid ankomst. \n\n# *Flexibla öppettider hos Bordershop*\nMed kunden i fokus har Bordershop skapat flexibla öppettider som passar alla. Under speciella perioder, som helgdagar, erbjuder Bordershop ofta utökade öppettider. Här på sidan hittar du all information om Bordershop öppettider, så att du enkelt kan planera ditt besök.\n\n# *Bordershop erbjudanden och reklamblad*\nBordershop reklamblad är din guide till de bästa erbjudandena. Med deras ständiga erbjudanden kan du alltid hitta något som passar dig och din budget. Kolla in det senaste reklambladet här på sidan och planera ditt nästa besök.",
+      "website": "https://www.bordershop.com/se?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Calle",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Calle",
+      "publicId": "7GD78V",
+      "slugs": [
+        "Calle"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBRyXP7Rag3UCkSZ-UWaht&w=300&s=99118db94ea270a851367130f5716b7a",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FaLiDIUmxY6DONykiTPasr&w=300&s=08b127e2d215fe67263af7cfc0fa996e",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7GD78V%2F3ief6iACNFcS58NhHXqFf&w=300&s=22858152bebabaaf1ed2080d8631bd8e",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7GD78V%2FOIZPeoMglXQCv1hUExKCy&w=300&s=81348e30d3040a8d5c85e50538797fd4",
+      "primaryCategoryId": "cross_border",
+      "primaryColor": "#ffed00",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Upptäck otroliga erbjudanden med Calle reklamblad. Spara på allt från läsk och godis till dagligvaror och hushållsartiklar. Calle erbjuder fantastiska priser på alla deras produkter.",
+      "markdownDescription": "**- en gränshandel med fantastiska erbjudanden**\n\nCalle har länge haft varor till oslagbara priser, och som en välkänd gränshandelskedja vid den tyska gränsen, är den mångas favorit. Med en stark närvaro har Calle blivit en favorit affär  för både svenskar, danskar och norrmän som passerar den tyska gränsen. Hos Calle går lågt pris, stort urval och spännande produkter hand i hand.\n\n# **Planera din shopping med Calle reklamblad**\n\nMed Calles reklamblad kan du enkelt planera dina inköp efter en mängd fantastiska erbjudanden. Kolla därför alltid Calles reklamblad innan du planerar ett besök, så du inte missar erbjudanden på dina favoritvaror. Det finns alltid något nytt och spännande att upptäcka varje gång du besöker Calle, vilket gör varje besök till en unik shoppingupplevelse.\nKom ihåg att du kan hitta Calles aktuella reklamblad längst ner på denna sida. Börja spara redan nu.\n\n**Utforska Calle stora sortiment**\n\nMed fokus på kvalitet och ett varierat sortiment av varor, erbjuder Calle ett hav av spännande produkter inom dagligvaror, hushåll, skönhet och de vanliga gränshandelsprodukterna som godis och läsk. När det kommer till gränshandel, står Calle i en klass för sig. Det finns alltid massor med erbjudanden på en mängd välkända varumärken och spännande varor. \n\n# **Calle öppettider – en smidig shoppingupplevelse**\n\nCalle förstår vikten av att erbjuda sina kunder flexibilitet, både när det gäller produktutbud och öppettider. Därför har Calle öppettider som är anpassade till allas behov. Kolla in Callas öppettider längst ner på denna sida.",
+      "website": "https://www.calle.dk/sv-se?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Selfmade",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Selfmade",
+      "publicId": "pzQ72q",
+      "slugs": [
+        "Selfmade"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FpzQ72q%2FWg_rD-Q4O58lkT6jG6Y0d&w=300&s=7134835bb4ff2e32ceefc78003743bd3",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FpzQ72q%2FnFCHN4mgY4qWy-BJ3G9X6&w=300&s=7bddcde4a6bb30348d156916648e3749",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FpzQ72q%2F1wuqnbxRW4LGx-l4d9p9p&w=300&s=c9244edefd3efca6db98476b40148ac7",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FpzQ72q%2FV9nXqTCLNuBj0-0ZW0heo&w=300&s=3b4384e9c590844f24f13545344ca42b",
+      "primaryCategoryId": "others",
+      "primaryColor": "#082c5c",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Oavsett om du är erfaren, precis har börjat eller bara drömmer om att bli kreativ, kan du vara lugn. Du har landat på rätt plats! På Selfmade®/STOF & STIL hjälper vi dig att uttrycka dig genom kreativa projekt.",
+      "markdownDescription": "Selfmade är en välkänd återförsäljare i Sverige, specialiserad på gör-det-själv-produkter, hobbyartiklar och heminredning. Med ett brett sortiment vänder de sig till både kreativa hobbyutövare och de som vill förnya och förbättra sina hem. Oavsett om du söker material för ett specifikt projekt, inspiration till din inredning eller verktyg för att underlätta dina renoveringar, har Selfmade något för dig. Med butiker över hela landet och en omfattande webbutik är Selfmade lättillgängligt för alla som vill förverkliga sina idéer. \n\nSelfmades historia\n\nSelfmade har en lång historia av att inspirera och underlätta för kreativa individer och hemmafixare i Sverige. Genom att fokusera på kvalitet, variation och kundservice har de etablerat sig som en ledande aktör inom DIY-segmentet. Selfmade strävar efter att erbjuda ett brett utbud av produkter som passar alla projekt och plånböcker, samtidigt som de erbjuder kunskap och inspiration för att hjälpa kunderna att lyckas.\n\nEtt brett sortiment för alla projekt\n\nSelfmade erbjuder ett omfattande sortiment av produkter inom en mängd olika kategorier, inklusive:\n\n*   **Hobby:** Material för målning, teckning, scrapbooking, smyckestillverkning och andra kreativa hobbyer.\n*   **Garn:** Ett stort utbud av garner i olika material, färger och tjocklekar för stickning och virkning.\n*   **Textil:** Tyger, sytillbehör och mönster för sömnadsprojekt.\n*   **Hem:** Inredningsdetaljer, möbler, belysning och textilier för att skapa ett personligt hem.\n*   **Färg:** Ett brett sortiment av färger för både inom- och utomhusbruk, samt tillbehör för målning.\n*   **Verktyg:** Handverktyg, elverktyg och maskiner för alla typer av projekt.\n\nInspiration och kunskap\n\nSelfmade är mer än bara en butik – det är en källa till inspiration och kunskap. Deras personal är kunnig och hjälper dig gärna att hitta rätt produkter och tekniker för ditt projekt. De erbjuder också workshops och kurser där du kan lära dig nya färdigheter och få inspiration från andra kreativa individer.\n\n## Hitta aktuella erbjudanden i Selfmades reklamblad\n\nVill du fynda material och verktyg till extra bra priser? Håll utkik i Selfmades reklamblad! Där hittar du alltid aktuella erbjudanden och kampanjer på utvalda produkter. Perfekt om du vill fylla på förrådet eller testa något nytt.\n\nAllt för din kreativitet\n\nOavsett om du är en erfaren hobbyutövare eller nybörjare, kan Selfmade hjälpa dig att förverkliga dina idéer. Med rätt material och verktyg kan du skapa unika och personliga projekt som du kan vara stolt över. Selfmade erbjuder ett brett utbud av produkter som är speciellt utformade för att stödja olika kreativa processer.\n\nSkapa ett personligt hem\n\nFörutom hobbyartiklar erbjuder Selfmade även ett stort utbud av produkter för heminredning. Här hittar du allt från möbler och belysning till textilier och dekorationer. Oavsett vilken stil du har, kan du hitta produkter som hjälper dig att skapa ett personligt och trivsamt hem.\n\nSelfmade – din partner för kreativa projekt och ett personligt hem\n\nMed butiker över hela landet och en omfattande webbutik är Selfmade alltid nära till hands. Besök deras webbplats för att se hela sortimentet och få inspiration till dina projekt. Du kan också följa dem på sociala medier för att få de senaste nyheterna och erbjudandena.\n\nHåll utkik i Selfmades reklamblad för erbjudanden och rabatter\n\nPassa på att göra ett bra köp genom att bläddra i Selfmades reklamblad. Där hittar du alltid aktuella erbjudanden och rabatter på hobbyartiklar, heminredning och verktyg. Reklambladet uppdateras regelbundet, så håll utkik för att inte missa något!",
+      "website": "https://www.selfmade.com/sv-se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "Nazar",
+    "url": null,
+    "description": null,
+    "logo": null,
+    "slug": null,
+    "raw_data": {
+      "name": "Nazar ",
+      "publicId": "3x8xeZ",
+      "slugs": [
+        "Nazar"
+      ],
+      "countryCode": "SE",
+      "positiveLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3x8xeZ%2FhPY4_NCwYZD-ECpIOafIy&w=300&s=266d886d9a9f6b147fd603193d9d9530",
+      "negativeLogoImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3x8xeZ%2FXKHgBsnRNMzdbLQZyW0Rf&w=300&s=5156b9b306b0f4ad542fe413e5fcfe6e",
+      "positiveLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3x8xeZ%2F0rpTKQUeM-DlcKF-c5Qvs&w=300&s=c876cd248f72abb540a8b297c826c038",
+      "negativeLogoMark": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3x8xeZ%2Fmp0-ZJIi2jwB4JF9OuQPp&w=300&s=fb721c241ee63aa9e5c6814e0dbe7421",
+      "primaryCategoryId": "others",
+      "primaryColor": "#00bee1",
+      "isStatic": false,
+      "isEnabled": true,
+      "shortDescription": "Nazar är Sveriges All Inclusive-specialist\nBarnklubbar, vattenparker, All Inclusive, familjesviter – vi har allt för en härlig familjesemester!",
+      "markdownDescription": "Nazar är specialister på All Inclusive-resor för familjen. Vi erbjuder charterresor till Turkiet, Rhodos och Cypern. Boka semestern på nazar.se.",
+      "website": "https://www.nazar.se/?utm_source=tjek&utm_medium=referral"
+    }
+  },
+  {
+    "name": "eReklamblad",
+    "url": "https://ereklamblad.se/",
+    "attributes": {}
+  },
+  {
+    "name": "nötfärs",
+    "url": "https://ereklamblad.se/soek/n%C3%B6tf%C3%A4rs",
+    "slug": "soek"
+  },
+  {
+    "name": "Intense Hydrate, Ultimate Repair, Illuminate Colour eller Weightless Volume2x245-285ml • 63 €/l30,87 €21 september21 septemberScandlines Travel Shop",
+    "url": "https://ereklamblad.se/Scandlines-Travel-Shop?publication=8vxu8yWK&offer=9pjrzSBJANBih8Qs3SsLr",
+    "slug": "Scandlines-Travel-Shop?publication=8vxu8yWK&offer=9pjrzSBJANBih8Qs3SsLr"
+  },
+  {
+    "name": "KommandeStockholms Bränneri50cl • 39,98 €/l19,99 €Från 13 augusti till 30 september13 augusti30 septemberBordershop",
+    "url": "https://ereklamblad.se/Bordershop?publication=DvAtSMu4&offer=1QZxRwODk-KrtZlLy5xNL",
+    "slug": "Bordershop?publication=DvAtSMu4&offer=1QZxRwODk-KrtZlLy5xNL"
+  },
+  {
+    "name": "Inköpslista",
+    "url": "https://ereklamblad.se/inkoepslistor/aktiva",
+    "slug": "inkoepslistor"
+  },
+  {
+    "name": "REF Stockholm Sweden2x245-285ml • 63 €/l30,87 €21 september21 septemberScandlines Travel Shop",
+    "url": "https://ereklamblad.se/Scandlines-Travel-Shop?publication=8vxu8yWK&offer=3EoD5r9JuBszzqjY-XwJC",
+    "slug": "Scandlines-Travel-Shop?publication=8vxu8yWK&offer=3EoD5r9JuBszzqjY-XwJC"
+  }
+]

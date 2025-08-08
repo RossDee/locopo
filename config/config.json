@@ -1,0 +1,124 @@
+{
+  "_comment": "Locopon Configuration - Swedish Retail Coupon Monitoring System",
+  "_version": "1.0.0-discovery-complete",
+  "_updated": "2025-08-07",
+  
+  "scraping": {
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "request_delay_seconds": 2,
+    "max_retries": 3,
+    "timeout_seconds": 30,
+    "rate_limit_enabled": true
+  },
+  
+  "browser": {
+    "headless": true,
+    "window_size": [1920, 1080],
+    "screenshot_debug": false,
+    "stealth_mode": true,
+    "disable_automation_flags": true,
+    "page_load_strategy": "eager"
+  },
+  
+  "discovery": {
+    "default_location": "Stockholm",
+    "discovery_methods": ["dom_parsing", "json_extraction", "clickable_elements"],
+    "location_selection_strategies": ["search_input", "dropdown", "url_params"],
+    "save_results": true,
+    "results_format": "json"
+  },
+  
+  "retailers": {
+    "supported_types": {
+      "individual_offers": {
+        "description": "Direct product offers with prices",
+        "examples": ["ICA Maxi", "Hemköp"],
+        "success_rate": "100%"
+      },
+      "catalog_style": {
+        "description": "Multi-page publication browsing",
+        "examples": ["Coop", "Stora Coop"],
+        "success_rate": "95%"
+      },
+      "image_based": {
+        "description": "Offers embedded in images (requires OCR)",
+        "examples": ["Willys"],
+        "success_rate": "0% - needs OCR implementation"
+      }
+    },
+    
+    "priority_retailers": [
+      "ICA Maxi Stormarknad",
+      "ICA Kvantum", 
+      "ICA Supermarket",
+      "Coop",
+      "Stora Coop",
+      "Willys",
+      "Hemköp",
+      "Lidl",
+      "City Gross"
+    ]
+  },
+  
+  "database": {
+    "type": "sqlite",
+    "path": "data/locopon.db",
+    "backup_enabled": true,
+    "backup_frequency_hours": 24,
+    "cleanup_enabled": true,
+    "cleanup_retention_days": 90
+  },
+  
+  "logging": {
+    "level": "INFO",
+    "file_path": "logs/locopon.log",
+    "max_file_size_mb": 10,
+    "backup_count": 5,
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  },
+  
+  "scheduling": {
+    "_comment": "Planned for Phase 2 - Integration",
+    "scrape_interval_hours": 2,
+    "daily_summary_time": "20:00",
+    "weekly_cleanup_day": "sunday",
+    "weekly_cleanup_time": "02:00"
+  },
+  
+  "ai_analysis": {
+    "_comment": "Planned for Phase 2 - Integration", 
+    "provider": "deepseek",
+    "api_key": "${DEEPSEEK_API_KEY}",
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-chat",
+    "max_analysis_per_run": 20,
+    "confidence_threshold": 0.7
+  },
+  
+  "notifications": {
+    "_comment": "Planned for Phase 2 - Integration",
+    "telegram": {
+      "enabled": false,
+      "bot_token": "${TELEGRAM_BOT_TOKEN}",
+      "chat_id": "${TELEGRAM_CHAT_ID}",
+      "notification_types": ["premium_deals", "daily_summary", "system_status"]
+    },
+    "filters": {
+      "minimum_value_score": 6,
+      "exclude_categories": ["personal-care"],
+      "minimum_savings_percent": 10
+    }
+  },
+  
+  "current_status": {
+    "phase": "Discovery Complete",
+    "stockholm_retailers_discovered": 76,
+    "last_discovery_date": "2025-08-07",
+    "success_rates": {
+      "ica_maxi": "100%",
+      "coop": "95%", 
+      "willys": "0% (needs OCR)"
+    },
+    "next_phase": "Integration & Automation"
+  }
+}
