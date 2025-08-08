@@ -1,6 +1,6 @@
 # Locopon 🇸🇪
 
-Swedish retail coupon monitoring system for eReklamblad.se
+Swedish retail coupon monitoring system, WITH AI analysis and translation
 
 ## Features
 - 🏙️ Multi-city retailer discovery (Stockholm, Sundsvall)
@@ -33,3 +33,4 @@ python ereklamblad_discovery.py
 
 ## License
 MIT
+
